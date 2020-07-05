@@ -1,9 +1,9 @@
 # Hi there 👋
-- 🔭 I’m currently working on making financial applications using spring boot and mysql
+- 🏦 I'm currently working for **@HealthRx, Pune** where i make financial applications using spring boot and mysql
 - 🌱 I’m currently learning docker and kubernetes
-- 🤔 I’m looking for help with CI/CD
-- 💬 Ask me about cricket, python (both of these are not any kind of insect or animals)
-- 📫 How to reach me: @apoorv__tyagi on twitter
+- 🤔 I use daily .java, .py, .sql
+- 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals) and silicon valley.
+- 📫 Reach me: https://www.twitter.com/apoorv__tyagi
 - ⚡ Fun fact: i like pineapple on pizza 
 <!--
 **ApoorvTyagi/ApoorvTyagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
