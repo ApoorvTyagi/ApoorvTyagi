@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on making financial applications using spring boot and mysql
 - 🌱 I’m currently learning docker and kubernetes
 - 🤔 I’m looking for help with CI/CD
-- 💬 Ask me about cricket
+- 💬 Ask me about cricket, python (both of these are not any kind of insect or animals)
 - 📫 How to reach me: @apoorv__tyagi on twitter
 - ⚡ Fun fact: i like pineapple on pizza 
 <!--
