@@ -1,5 +1,10 @@
-### Hi there 👋
-
+# Hi there 👋
+- 🔭 I’m currently working on making financial applications using spring boot and mysql
+- 🌱 I’m currently learning docker and kubernetes
+- 🤔 I’m looking for help with CI/CD
+- 💬 Ask me about cricket
+- 📫 How to reach me: @apoorv__tyagi on twitter
+- ⚡ Fun fact: i like pineapple on pizza 
 <!--
 **ApoorvTyagi/ApoorvTyagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
