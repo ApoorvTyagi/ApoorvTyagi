@@ -1,8 +1,9 @@
 # Hi there 👋
 - 🏦 I'm currently working for **@HealthRx, Pune** where i make financial applications using spring boot and mysql
-- 🌱 I’m currently learning docker and kubernetes
 - 🤔 I use daily .java, .py, .sql
+- 🌱 I’m currently learning docker and kubernetes
 - 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals) and silicon valley.
+- 😄 Pronouns: He/His/Him
 - 📫 Reach me: https://www.twitter.com/apoorv__tyagi
 - ⚡ Fun fact: i like pineapple on pizza 
 <!--
@@ -16,6 +17,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
