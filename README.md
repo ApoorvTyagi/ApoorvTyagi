@@ -1,11 +1,11 @@
 # Hi there 👋
 - 🏦 I'm currently working for a healthcare based startup where i make financial applications using spring boot and mysql
-- 🤔 I use daily .java, .py, .sql
+- 🤔 I use daily .java, .py, .sql, .yml
 - 🌱 I’m currently learning docker and kubernetes
-- 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals) and silicon valley.
+- 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals) and silicon valley
+- 📫 Reach me on ✨[Twitter](https://www.twitter.com/apoorv__tyagi) ; ✨[LinkedIn](https://www.linkedin.com/in/apoorvtyagi/)
 - 😄 Pronouns: He/His/Him
-- 📫 Reach me: https://www.twitter.com/apoorv__tyagi
-- ⚡ Fun fact: i like pineapple on pizza 
+- ⚡ Fun fact: I like pineapple on pizza 
 <!--
 **ApoorvTyagi/ApoorvTyagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
