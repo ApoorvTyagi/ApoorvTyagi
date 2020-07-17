@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there 👋   
 - 🏦 I'm currently working for a healthcare based startup where i make financial applications using spring boot and mysql
 - 🤔 I use daily .java, .py, .sql, .yml
 - 🌱 I’m currently learning docker and kubernetes
@@ -8,6 +8,7 @@
 - ⚡ Fun fact: I like pineapple on pizza 
 
 ![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=apoorvtyagi&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=["stars"])
+# ![HAPPY](happy.gif)
 <!--
 **ApoorvTyagi/ApoorvTyagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
