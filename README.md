@@ -1,5 +1,5 @@
 # Hi there 👋   
-![HAPPY](happy.gif)
+<img src="happy.gif"/>
 - 🏦 I'm currently working for a healthcare based startup where i make financial applications using spring boot and mysql
 - 🤔 I use daily .java, .py, .sql, .yml
 - 🌱 I’m currently learning docker and kubernetes
