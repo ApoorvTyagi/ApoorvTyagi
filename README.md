@@ -3,6 +3,7 @@
 - 🤔 I use daily .java, .py, .sql, .yml
 - 🌱 I’m currently learning docker and kubernetes
 - 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals) and silicon valley
+- 👯 Let's connect on ✨[Chess.com](https://www.chess.com/member/sweetxcyanide) to play some games
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: I like pineapple on pizza 
 
