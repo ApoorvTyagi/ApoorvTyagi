@@ -7,6 +7,18 @@
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: I like pineapple on pizza 
 
+
+<p align="left">
+<img src="https://konpa.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="JAVA" width="40" height="40"/> 
+<img src="https://konpa.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
+<img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="PYTHON" width="40" height="40"/>
+<img src="https://konpa.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="DOCKER" width="40" height="40"/> 
+<img src="https://konpa.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="C" width="20" height="40"/> 
+<img src="https://konpa.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
+<img src="https://konpa.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="ANDROID" width="40" height="40"/> 
+</p>
+
+
 ![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=apoorvtyagi&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=["stars"])
 
 
@@ -17,6 +29,7 @@
 <!-- links to your social media accounts -->
 [1]: http://www.twitter.com/apoorv__tyagi
 [2]: http://www.github.com/apoorvtyagi
+
 <!--
 **ApoorvTyagi/ApoorvTyagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
