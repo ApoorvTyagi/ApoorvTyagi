@@ -8,6 +8,15 @@
 - ⚡ Fun fact: I like pineapple on pizza 
 
 ![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=apoorvtyagi&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=["stars"])
+
+
+[![alt text][1.1]][1] [![alt text][6.1]][2]
+<!-- icons with padding -->
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+<!-- links to your social media accounts -->
+[1]: http://www.twitter.com/apoorv__tyagi
+[2]: http://www.github.com/apoorvtyagi
 <!--
 **ApoorvTyagi/ApoorvTyagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
