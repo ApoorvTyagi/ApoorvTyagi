@@ -9,11 +9,11 @@
 
 
 <p align="left">
-<img src="https://konpa.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="JAVA" width="40" height="40"/> 
-<img src="https://konpa.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
-<img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="PYTHON" width="40" height="40"/>
+<img src="https://konpa.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="JAVA" width="50" height="50"/> 
+<img src="https://konpa.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="55" height="55"/> 
+<img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="PYTHON" width="60" height="60"/>
 <img src="https://konpa.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="DOCKER" width="40" height="40"/> 
-<img src="https://konpa.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="C" width="20" height="40"/> 
+<img src="https://konpa.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
 <img src="https://konpa.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
 <img src="https://konpa.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="ANDROID" width="40" height="40"/> 
 </p>
