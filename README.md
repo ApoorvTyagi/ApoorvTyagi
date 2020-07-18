@@ -3,7 +3,6 @@
 - 🤔 I use daily .java, .py, .sql, .yml
 - 🌱 I’m currently learning docker and kubernetes
 - 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals) and silicon valley
-- 📫 Reach me on ✨[Twitter](https://www.twitter.com/apoorv__tyagi) ; ✨[LinkedIn](https://www.linkedin.com/in/apoorvtyagi/)
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: I like pineapple on pizza 
 
@@ -43,4 +42,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
+- 📫 Reach me on ✨[Twitter](https://www.twitter.com/apoorv__tyagi) ; ✨[LinkedIn](https://www.linkedin.com/in/apoorvtyagi/)
 -->
