@@ -22,13 +22,14 @@
 ![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=apoorvtyagi&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=["stars"])
 
 
-[![alt text][1.1]][1] [![alt text][6.1]][2]
+[![alt text][1.1]][1] [![alt text][2.1]][2] 
 <!-- icons with padding -->
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter)
-[6.1]: http://i.imgur.com/0o48UoR.png (github)
+[2.1]: http://i.imgur.com/0o48UoR.png (github)
 <!-- links to your social media accounts -->
 [1]: http://www.twitter.com/apoorv__tyagi
 [2]: http://www.github.com/apoorvtyagi
+<a href="https://linkedin.com/in/apoorvtyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="15" width="15" /></a>
 
 <!--
 **ApoorvTyagi/ApoorvTyagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
