@@ -12,8 +12,8 @@
 
 [![alt text][1.1]][1] [![alt text][6.1]][2]
 <!-- icons with padding -->
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter)
+[6.1]: http://i.imgur.com/0o48UoR.png (github)
 <!-- links to your social media accounts -->
 [1]: http://www.twitter.com/apoorv__tyagi
 [2]: http://www.github.com/apoorvtyagi
