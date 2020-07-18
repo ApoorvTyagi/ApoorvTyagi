@@ -29,7 +29,7 @@
 <!-- links to your social media accounts -->
 [1]: http://www.twitter.com/apoorv__tyagi
 [2]: http://www.github.com/apoorvtyagi
-&nbsp;<a href="https://linkedin.com/in/apoorvtyagi" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="15"    width="15" /></a>
+&nbsp; <a href="https://linkedin.com/in/apoorvtyagi" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="15"   width="15" /></a>
 
 <!--
 **ApoorvTyagi/ApoorvTyagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
