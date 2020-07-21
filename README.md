@@ -15,7 +15,10 @@
 <img src="https://konpa.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="DOCKER" width="40" height="40"/> 
 <img src="https://konpa.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
 <img src="https://konpa.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
-<img src="https://konpa.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="ANDROID" width="40" height="40"/> 
+<img src="https://konpa.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="ANDROID" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="GIT" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" alt="IPYNB" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png" alt="MAVEN" width="40" height="40"/> 
 </p>
 
 
@@ -44,4 +47,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 - 📫 Reach me on ✨[Twitter](https://www.twitter.com/apoorv__tyagi) ; ✨[LinkedIn](https://www.linkedin.com/in/apoorvtyagi/)
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="PY" width="40" height="40"/> 
 -->
