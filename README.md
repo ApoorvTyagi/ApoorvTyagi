@@ -25,15 +25,9 @@
 
 ![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=apoorvtyagi&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=["stars"])
 
-
-[![alt text][1.1]][1] [![alt text][2.1]][2] 
-<!-- icons with padding -->
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter)
-[2.1]: http://i.imgur.com/0o48UoR.png (github)
-<!-- links to your social media accounts -->
-[1]: http://www.twitter.com/apoorv__tyagi
-[2]: http://www.github.com/apoorvtyagi
-&nbsp; <a href="https://linkedin.com/in/apoorvtyagi" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="15"   width="15" /></a>
+<a href="https://twitter.com/apoorv__tyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="apoorv__tyagi" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/apoorvtyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="20" width="20" /></a>
+<a href="https://medium.com/apoorvtyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="apoorvtyagi" height="20" width="20" /></a>
 
 <!--
 **ApoorvTyagi/ApoorvTyagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -47,4 +41,12 @@
 - ⚡ Fun fact: ...
 - 📫 Reach me on ✨[Twitter](https://www.twitter.com/apoorv__tyagi) ; ✨[LinkedIn](https://www.linkedin.com/in/apoorvtyagi/)
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="PY" width="40" height="40"/> 
+[![alt text][1.1]][1] [![alt text][2.1]][2] 
+<!-- icons with padding -->
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter)
+[2.1]: http://i.imgur.com/0o48UoR.png (github)
+<!-- links to your social media accounts -->
+[1]: http://www.twitter.com/apoorv__tyagi
+[2]: http://www.github.com/apoorvtyagi
+&nbsp; <a href="https://linkedin.com/in/apoorvtyagi" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="15"   width="15" /></a>
 -->
