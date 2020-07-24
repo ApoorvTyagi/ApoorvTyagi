@@ -1,9 +1,10 @@
 # Hi there 👋   
 - 🏦 I'm currently working for a healthcare based startup where i make financial applications using spring boot and mysql
-- 🤔 I use daily .java, .py, .sql, .yml
+- 🤔 I use daily .java, .py, .sql
 - 🌱 I’m currently learning docker and kubernetes
 - 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals) and silicon valley
 - 😄 Pronouns: He/His/Him
+- 📝 I regulary write articles on [blogger](apoorvtyagi133.blogspot.com)
 - 👯 We can connect on [Chess.com](https://www.chess.com/member/sweetxcyanide)♟ to play some games
 - ⚡ Fun fact: I like pineapple on pizza 
 
