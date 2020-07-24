@@ -28,9 +28,11 @@
 <a href="https://twitter.com/apoorv__tyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="apoorv__tyagi" height="20" width="20" /></a>&nbsp;
 <a href="https://linkedin.com/in/apoorvtyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="20" width="20" /></a>&nbsp;
 <a href="https://medium.com/@apoorvtyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="apoorvtyagi" height="20" width="20" /></a>
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 
 <!--
-
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -49,5 +51,6 @@
 [1]: http://www.twitter.com/apoorv__tyagi
 [2]: http://www.github.com/apoorvtyagi
 &nbsp; <a href="https://linkedin.com/in/apoorvtyagi" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="15"   width="15" /></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvtyagi)](https://github.com/anuraghazra/github-readme-stats)
 
 -->
