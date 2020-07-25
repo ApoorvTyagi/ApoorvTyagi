@@ -3,14 +3,14 @@ name: Waka Readme
 on:
   schedule:
     # Runs at 20:30pm UTC & 2:00am IST
-    - cron: '30 20 * * *'
+    - cron: '00 06 * * *'
 
 jobs:
   update-readme:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: apoorvtyagi/waka-readme-stats@master
+      - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
