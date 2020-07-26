@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning docker and kubernetes
 - 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals) and silicon valley
 - 😄 Pronouns: He/His/Him
-- 📝 I regulary write articles on [blogger](apoorvtyagi133.blogspot.com)
+- 📝 I regulary write articles on [blogger](https://www.apoorvtyagi133.blogspot.com)
 - 👯 We can connect on [Chess.com](https://www.chess.com/member/sweetxcyanide)♟ to play some games
 - ⚡ Fun fact: I like pineapple on pizza 
 
@@ -31,7 +31,6 @@
 <a href="https://medium.com/@apoorvtyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="apoorvtyagi" height="20" width="20" /></a>
 <a href="https://www.buymeacoffee.com/apoorvtyagi"><img align="center" alt="Buy me a Coffee" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" /></a>
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
 
 <!--
