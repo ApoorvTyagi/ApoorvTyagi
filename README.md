@@ -8,7 +8,8 @@
 - 😄 Pronouns: He/His/Him
 - 📝 I regulary write articles on [blogger](https://apoorvtyagi133.blogspot.com/)
 - 👯 We can connect on [Chess.com](https://www.chess.com/member/sweetxcyanide)♟ to play some games
-- ⚡ Fun fact: I like pineapple on pizza 
+- ⚡ Fun fact: Je connais un peu le français
+
 
 
 <p align="left">
