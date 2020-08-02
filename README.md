@@ -39,22 +39,17 @@
 
 <!--END_SECTION:activity-->
 
+
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
+---
+
+⏳ Year progress { █████████████████▁▁▁▁▁▁▁▁▁▁▁▁▁ } 58.62 %
+
+---
+
+⏰ Updated on Sun, 02 Aug 2020 13:08:21 GMT
 
 
-<!--
 
-- 📫 Reach me on ✨[Twitter](https://www.twitter.com/apoorv__tyagi) ; ✨[LinkedIn](https://www.linkedin.com/in/apoorvtyagi/)
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="PY" width="40" height="40"/> 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=apoorvtyagi" alt="apoorvtyagi" /> </p>
-[![alt text][1.1]][1] [![alt text][2.1]][2] 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter)
-[2.1]: http://i.imgur.com/0o48UoR.png (github)
-[1]: http://www.twitter.com/apoorv__tyagi
-[2]: http://www.github.com/apoorvtyagi
-&nbsp; <a href="https://linkedin.com/in/apoorvtyagi" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="15"   width="15" /></a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvtyagi)](https://github.com/anuraghazra/github-readme-stats)
-
--->
