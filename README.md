@@ -39,7 +39,6 @@
 
 <!--END_SECTION:activity-->
 
-
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
@@ -47,15 +46,7 @@
 
 <!--
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
 - 📫 Reach me on ✨[Twitter](https://www.twitter.com/apoorv__tyagi) ; ✨[LinkedIn](https://www.linkedin.com/in/apoorvtyagi/)
-
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="PY" width="40" height="40"/> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apoorvtyagi" alt="apoorvtyagi" /> </p>
 [![alt text][1.1]][1] [![alt text][2.1]][2] 
