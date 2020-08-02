@@ -19,7 +19,7 @@ const readme = `\
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 - 🏦 I'm currently working for a healthcare based startup where i make financial applications using spring boot and mysql 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🤔 I use daily ```.java```,``` .py```, ```.sql```
+- 🤔 I use daily \`\`\`.java\`\`\`,\`\`\` .py\`\`\`, \`\`\`.sql\`\`\`
 - 🌱 I’m currently learning docker and kubernetes
 - 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals) and silicon valley
 - 😄 Pronouns: He/His/Him
