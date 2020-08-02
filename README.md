@@ -10,8 +10,6 @@
 - 👯 We can connect on [Chess.com](https://www.chess.com/member/sweetxcyanide)♟ to play some games
 - ⚡ Fun fact: Je connais un peu le français
 
-
-
 <p align="left">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="55" height="55"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="55" height="60"/> 
@@ -44,12 +42,4 @@
 
 <!--END_SECTION:waka-->
 ---
-
-⏳ Year progress { █████████████████▁▁▁▁▁▁▁▁▁▁▁▁▁ } 58.62 %
-
----
-
-⏰ Updated on Sun, 02 Aug 2020 13:08:21 GMT
-
-
-
+⏳ Year progress { █████████████████▁▁▁▁▁▁▁▁▁▁▁▁▁ } 58.62 %  As on ⏰ Sun, 02 Aug 2020 13:08:21 GMT
