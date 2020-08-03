@@ -41,7 +41,6 @@
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
-
 ---
 ⏳ Year progress { █████████████████▁▁▁▁▁▁▁▁▁▁▁▁▁ } 58.78 % As on ⏰ Mon, 03 Aug 2020 03:37:09 GMT
 
