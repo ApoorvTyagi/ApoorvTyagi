@@ -3,7 +3,7 @@ name: Progress Bar CI
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 00 * * *'
+    - cron: '50 23 * * *'
 
 jobs:
   build:
