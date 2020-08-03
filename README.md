@@ -39,6 +39,54 @@
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-791-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-275173%20Lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 481 Contributions in year 2020
+ > 
+> 📦 Used 0 Bytes in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 35 Public Repository 
+ > 
+> 🔑 None Owned Private Repository 
+
+**I'm an early 🐤** 
+
+```text
+🌞 Morning    39 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.26% 
+🌆 Daytime    75 commits     ████████░░░░░░░░░░░░░░░░░   33.19% 
+🌃 Evening    95 commits     ██████████░░░░░░░░░░░░░░░   42.04% 
+🌙 Night      17 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.52%
+
+```
+📅 **I'm Most Productive on Sundays** 
+
+```text
+Monday       40 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.7% 
+Tuesday      18 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.96% 
+Wednesday    8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.54% 
+Thursday     11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.87% 
+Friday       32 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.16% 
+Saturday     51 commits     █████░░░░░░░░░░░░░░░░░░░░   22.57% 
+Sunday       66 commits     ███████░░░░░░░░░░░░░░░░░░   29.2%
+
+```
+
+
+📊 **This week I spent my time on** 
+
+```text
+```
+
+**Timeline**
+
+![Chart not found](https://github.com/ApoorvTyagi/ApoorvTyagi/blob/master/charts/bar_graph.png) 
+
 
 <!--END_SECTION:waka-->
 ---
