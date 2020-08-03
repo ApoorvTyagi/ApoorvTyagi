@@ -58,8 +58,8 @@ const readme = `\
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
-
 ---
-⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} % As on ⏰ ${new Date().toUTCString()}
+⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} % as on ⏰ ${new Date().toUTCString()}
 `
+
 console.log(readme)
