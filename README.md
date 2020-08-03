@@ -10,6 +10,7 @@
 - 👯 We can connect on [Chess.com](https://www.chess.com/member/sweetxcyanide)♟ to play some games
 - ⚡ Fun fact: Je connais un peu le français
 
+
 <p align="left">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="55" height="55"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="55" height="60"/> 
@@ -38,55 +39,9 @@
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-791-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-260014%20Lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 481 Contributions in year 2020
- > 
-> 📦 Used 0 Bytes in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 35 Public Repository 
- > 
-> 🔑 None Owned Private Repository 
-
-**I'm a night 🦉** 
-
-```text
-🌞 Morning    35 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.77% 
-🌆 Daytime    75 commits     ████████░░░░░░░░░░░░░░░░░   33.78% 
-🌃 Evening    95 commits     ██████████░░░░░░░░░░░░░░░   42.79% 
-🌙 Night      17 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.66%
-
-```
-📅 **I'm Most Productive on Sundays** 
-
-```text
-Monday       36 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.22% 
-Tuesday      18 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.11% 
-Wednesday    8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.6% 
-Thursday     11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.95% 
-Friday       32 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.41% 
-Saturday     51 commits     █████░░░░░░░░░░░░░░░░░░░░   22.97% 
-Sunday       66 commits     ███████░░░░░░░░░░░░░░░░░░   29.73%
-
-```
-
-
-📊 **This week I spent my time on** 
-
-```text
-```
-
-**Timeline**
-
-![Chart not found](https://github.com/ApoorvTyagi/ApoorvTyagi/blob/master/charts/bar_graph.png) 
-
 
 <!--END_SECTION:waka-->
+
 ---
-⏳ Year progress { █████████████████▁▁▁▁▁▁▁▁▁▁▁▁▁ } 58.62 %  As on ⏰ Sun, 02 Aug 2020 13:08:21 GMT
+⏳ Year progress { █████████████████▁▁▁▁▁▁▁▁▁▁▁▁▁ } 58.78 % As on ⏰ Mon, 03 Aug 2020 03:37:09 GMT
+
