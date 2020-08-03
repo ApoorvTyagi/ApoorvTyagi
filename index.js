@@ -28,7 +28,6 @@ const readme = `\
 - ⚡ Fun fact: Je connais un peu le français
 
 
-
 <p align="left">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="55" height="55"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="55" height="60"/> 
@@ -52,8 +51,8 @@ const readme = `\
 <a href="https://medium.com/@apoorvtyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="apoorvtyagi" height="20" width="20" /></a>
 <a href="https://www.buymeacoffee.com/apoorvtyagi"><img align="center" alt="Buy me a Coffee" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" /></a>
 
+---
 <!--START_SECTION:activity-->
-
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
@@ -62,5 +61,5 @@ const readme = `\
 
 ---
 ⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} % As on ⏰ ${new Date().toUTCString()}
-
+`
 console.log(readme)
