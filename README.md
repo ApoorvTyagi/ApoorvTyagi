@@ -1,4 +1,4 @@
-# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
+# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 <p align="right">
 <a href="https://twitter.com/apoorv__tyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="apoorv__tyagi" height="20" width="20" /></a>&nbsp;
 <a href="https://linkedin.com/in/apoorvtyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="20" width="20" /></a>&nbsp;
@@ -42,39 +42,14 @@
 ![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=apoorvtyagi&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvtyagi&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning    51 commits     █████░░░░░░░░░░░░░░░░░░░░   19.62% 
-🌆 Daytime    78 commits     ███████░░░░░░░░░░░░░░░░░░   30.0% 
-🌃 Evening    114 commits    ███████████░░░░░░░░░░░░░░   43.85% 
-🌙 Night      17 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.54%
-
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday       50 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.23% 
-Tuesday      22 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.46% 
-Wednesday    10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.85% 
-Thursday     13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.0% 
-Friday       22 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.46% 
-Saturday     67 commits     ██████░░░░░░░░░░░░░░░░░░░   25.77% 
-Sunday       76 commits     ███████░░░░░░░░░░░░░░░░░░   29.23%
-
-```
 <!--END_SECTION:waka-->
 ---
 
-⏳ Year progress { ███████████████████▁▁▁▁▁▁▁▁▁▁▁ } 63.94 % as on ⏰ Sat, 22 Aug 2020 00:17:00 GMT
+⏳ Year progress { ███████████████████▁▁▁▁▁▁▁▁▁▁▁ } 64.11 % as on ⏰ 22-8-2020
 
 ---
 ### Here's a Joke for you:
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
----
-
 
