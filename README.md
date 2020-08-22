@@ -1,5 +1,5 @@
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-<p align="right">
+<p align="center">
 <a href="https://twitter.com/apoorv__tyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="apoorv__tyagi" height="20" width="20" /></a>&nbsp;
 <a href="https://linkedin.com/in/apoorvtyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="20" width="20" /></a>&nbsp;
 <a href="https://medium.com/@apoorvtyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="apoorvtyagi" height="20" width="20" /></a>
@@ -43,33 +43,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvtyagi&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    51 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.21% 
-🌆 Daytime    75 commits     ██████░░░░░░░░░░░░░░░░░░░   26.79% 
-🌃 Evening    137 commits    ████████████░░░░░░░░░░░░░   48.93% 
-🌙 Night      17 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.07%
-
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday       50 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.08% 
-Tuesday      22 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.4% 
-Wednesday    10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.82% 
-Thursday     13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.96% 
-Friday       15 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.73% 
-Saturday     76 commits     ███████░░░░░░░░░░░░░░░░░░   29.01% 
-Sunday       76 commits     ███████░░░░░░░░░░░░░░░░░░   29.01%
-
-```
-
-
 
 <!--END_SECTION:waka-->
 
 ⏳ **Year Progress** { ███████████████████▁▁▁▁▁▁▁▁▁▁▁ } 64.13 % as on ⏰ 22-8-2020.
+
 ---
 
 ### Here's a Joke for you:
