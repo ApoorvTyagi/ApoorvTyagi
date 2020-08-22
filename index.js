@@ -62,9 +62,9 @@ const readme = `\
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
----
 
 ⏳ **Year Progress** ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} % as on ⏰ ${new Date().getDate()+'-'+(new Date().getMonth()+1)+'-'+new Date().getFullYear()+'.'}
+---
 
 ### Here's a Joke for you:
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
