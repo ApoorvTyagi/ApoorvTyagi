@@ -73,6 +73,11 @@ Sunday       93 commits     ████████░░░░░░░░░�
 
 ---
 
+### 📑 My Latest Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
 ### Here's a Joke for you:
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
