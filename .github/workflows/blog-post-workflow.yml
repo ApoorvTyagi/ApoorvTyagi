@@ -12,5 +12,5 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          max_post_count: "3"
+          max_post_count: "5"
           feed_list: "https://apoorvtyagi.hashnode.dev/rss.xml"
