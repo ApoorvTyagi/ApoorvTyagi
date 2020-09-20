@@ -73,15 +73,13 @@ Sunday       93 commits     ████████░░░░░░░░░�
 
 ---
 
-### 📕 My Latest Blog posts
+### 📕 My Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
 - [GIT INIT (Part-1)](https://apoorvtyagi.tech/git-init-part-1)
 - [Let Us Mine!!!](https://apoorvtyagi.tech/let-us-mine)
 - [Improving Time Complexity](https://apoorvtyagi.tech/improving-time-complexity)
 <!-- BLOG-POST-LIST:END -->
-
 ---
 
 ### Here's a Joke for you:
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-
