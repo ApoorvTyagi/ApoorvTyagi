@@ -13,4 +13,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "5"
-          feed_list: "https://apoorvtyagi.hashnode.dev/rss.xml"
+          feed_list: "https://apoorvtyagi.tech/rss.xml"
