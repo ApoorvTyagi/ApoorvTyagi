@@ -52,9 +52,11 @@
 
 ### 📕 My Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Different ways to authenticate your APIs](https://apoorvtyagi.tech/different-ways-to-authenticate-your-apis)
+- [Understanding Linear Regression](https://apoorvtyagi.tech/understanding-linear-regression)
+- [GIT INIT (Part-2)](https://apoorvtyagi.tech/git-init-part-2)
 - [GIT INIT (Part-1)](https://apoorvtyagi.tech/git-init-part-1)
 - [Let Us Mine!!!](https://apoorvtyagi.tech/let-us-mine)
-- [Improving Time Complexity](https://apoorvtyagi.tech/improving-time-complexity)
 <!-- BLOG-POST-LIST:END -->
 ---
 
