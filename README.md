@@ -43,43 +43,18 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvtyagi&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    39 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.96% 
-🌆 Daytime    84 commits     ██████░░░░░░░░░░░░░░░░░░░   25.77% 
-🌃 Evening    175 commits    █████████████░░░░░░░░░░░░   53.68% 
-🌙 Night      28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.59%
-
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday       52 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.63% 
-Tuesday      23 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.8% 
-Wednesday    25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.47% 
-Thursday     14 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.75% 
-Friday       16 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.42% 
-Saturday     70 commits     ██████░░░░░░░░░░░░░░░░░░░   23.73% 
-Sunday       95 commits     ████████░░░░░░░░░░░░░░░░░   32.2%
-
-```
-
-
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress** { ████████████████████████▁▁▁▁▁▁ } 83.06 % as on ⏰ 31-10-2020.
+⏳ **Year Progress** { █████████████████████████▁▁▁▁▁ } 83.34 % as on ⏰ 1-11-2020.
 
 ---
 
 ### 📕 My Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [Having a go at common NLP tasks using TextBlob](https://apoorvtyagi.tech/nlp-textblob)
-- [Tail recursion in python 🐍](https://apoorvtyagi.tech/tail-recursion-in-python)
-- [scp command in Linux 💻](https://apoorvtyagi.tech/scp-command-in-linux)
-- [Different ways to authenticate your APIs](https://apoorvtyagi.tech/different-ways-to-authenticate-your-apis)
-- [Understanding Linear Regression](https://apoorvtyagi.tech/understanding-linear-regression)
+- [GIT INIT (Part-1)](https://apoorvtyagi.tech/git-init-part-1)
+- [Let Us Mine!!!](https://apoorvtyagi.tech/let-us-mine)
+- [Improving Time Complexity](https://apoorvtyagi.tech/improving-time-complexity)
 <!-- BLOG-POST-LIST:END -->
 ---
 
