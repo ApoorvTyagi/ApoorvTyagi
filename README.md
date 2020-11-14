@@ -52,9 +52,11 @@
 
 ### 📕 My Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [GIT INIT (Part-1)](https://apoorvtyagi.tech/git-init-part-1)
-- [Let Us Mine!!!](https://apoorvtyagi.tech/let-us-mine)
-- [Improving Time Complexity](https://apoorvtyagi.tech/improving-time-complexity)
+- [Containerize your web application & deploy it on Kubernetes](https://apoorvtyagi.tech/containerize-your-web-application-and-deploy-it-on-kubernetes)
+- [Having a go at common NLP tasks using TextBlob](https://apoorvtyagi.tech/nlp-textblob)
+- [Tail recursion in python 🐍](https://apoorvtyagi.tech/tail-recursion-in-python)
+- [scp command in Linux 💻](https://apoorvtyagi.tech/scp-command-in-linux)
+- [Different ways to authenticate your APIs](https://apoorvtyagi.tech/different-ways-to-authenticate-your-apis)
 <!-- BLOG-POST-LIST:END -->
 ---
 
