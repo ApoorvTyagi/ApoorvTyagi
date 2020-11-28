@@ -9,14 +9,14 @@
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 ### 🤵 About Me:
-- 🏦 I'm working for a fintech startup based in India where i make financial applications using spring boot and mysql 
+- 🏦 I'm working for a fintech startup based in India where i make financial applications & microservices primarily using spring boot and mysql 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🤔 I use daily ```.java```,``` .py```, ```.sql```
 - 🌱 I’m currently learning docker and kubernetes
 - 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals) and silicon valley
 - 😄 Pronouns: He/Him
 - 📝 I regulary write articles on [hashnode](https://apoorvtyagi.tech/) & [dev.to](https://dev.to/apoorvtyagi)
-- 👯 We can connect to play some games of Chess♟
+- 👯 We can connect to play some games of Chess ♟
 - ⚡ Fun fact: Je connais un peu le français
 
 <p align="center">
