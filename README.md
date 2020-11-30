@@ -43,43 +43,18 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvtyagi&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    41 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.54% 
-🌆 Daytime    85 commits     ██████░░░░░░░░░░░░░░░░░░░   25.99% 
-🌃 Evening    173 commits    █████████████░░░░░░░░░░░░   52.91% 
-🌙 Night      28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.56%
-
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday       55 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.71% 
-Tuesday      23 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.82% 
-Wednesday    25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.5% 
-Thursday     14 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.76% 
-Friday       16 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.44% 
-Saturday     72 commits     ██████░░░░░░░░░░░░░░░░░░░   24.49% 
-Sunday       89 commits     ███████░░░░░░░░░░░░░░░░░░   30.27%
-
-```
-
-
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress** { ███████████████████████████▁▁▁ } 90.99 % as on ⏰ 29-11-2020.
+⏳ **Year Progress** { ███████████████████████████▁▁▁ } 91.26 % as on ⏰ 30-11-2020.
 
 ---
 
 ### 📕 My Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [Containerize your web application & deploy it on Kubernetes](https://apoorvtyagi.tech/containerize-your-web-application-and-deploy-it-on-kubernetes)
-- [Having a go at common NLP tasks using TextBlob](https://apoorvtyagi.tech/nlp-textblob)
-- [Tail recursion in python 🐍](https://apoorvtyagi.tech/tail-recursion-in-python)
-- [scp command in Linux 💻](https://apoorvtyagi.tech/scp-command-in-linux)
-- [Different ways to authenticate your APIs](https://apoorvtyagi.tech/different-ways-to-authenticate-your-apis)
+- [GIT INIT (Part-1)](https://apoorvtyagi.tech/git-init-part-1)
+- [Let Us Mine!!!](https://apoorvtyagi.tech/let-us-mine)
+- [Improving Time Complexity](https://apoorvtyagi.tech/improving-time-complexity)
 <!-- BLOG-POST-LIST:END -->
 ---
 
