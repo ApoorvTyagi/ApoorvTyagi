@@ -43,43 +43,18 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvtyagi&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    41 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.39% 
-🌆 Daytime    86 commits     ██████░░░░░░░░░░░░░░░░░░░   25.98% 
-🌃 Evening    176 commits    █████████████░░░░░░░░░░░░   53.17% 
-🌙 Night      28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.46%
-
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday       56 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.79% 
-Tuesday      23 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.72% 
-Wednesday    25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.39% 
-Thursday     14 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.7% 
-Friday       16 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.37% 
-Saturday     72 commits     ██████░░░░░░░░░░░░░░░░░░░   24.16% 
-Sunday       92 commits     ███████░░░░░░░░░░░░░░░░░░   30.87%
-
-```
-
-
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress** { ███████████████████████████▁▁▁ } 93.17 % as on ⏰ 7-12-2020.
+⏳ **Year Progress** { ████████████████████████████▁▁ } 93.45 % as on ⏰ 8-12-2020.
 
 ---
 
 ### 📕 My Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [How i automated my WhatsApp chats](https://apoorvtyagi.tech/how-i-automated-my-whatsapp-chats)
-- [Containerize your web application & deploy it on Kubernetes](https://apoorvtyagi.tech/containerize-your-web-application-and-deploy-it-on-kubernetes)
-- [Having a go at common NLP tasks using TextBlob](https://apoorvtyagi.tech/nlp-textblob)
-- [Tail recursion in python 🐍](https://apoorvtyagi.tech/tail-recursion-in-python)
-- [scp command in Linux 💻](https://apoorvtyagi.tech/scp-command-in-linux)
+- [GIT INIT (Part-1)](https://apoorvtyagi.tech/git-init-part-1)
+- [Let Us Mine!!!](https://apoorvtyagi.tech/let-us-mine)
+- [Improving Time Complexity](https://apoorvtyagi.tech/improving-time-complexity)
 <!-- BLOG-POST-LIST:END -->
 ---
 
