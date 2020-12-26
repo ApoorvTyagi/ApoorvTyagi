@@ -14,7 +14,6 @@
 - 🤔 I use daily ```.java```,``` .py```, ```.sql```
 - 🌱 I’m currently learning docker and kubernetes
 - 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals) and silicon valley
-- 😄 Pronouns: He/Him
 - 📝 I regulary write articles on [hashnode](https://apoorvtyagi.tech/) & [dev.to](https://dev.to/apoorvtyagi)
 - 👯 We can connect to play some games of Chess ♟
 - ⚡ Fun fact: Je connais un peu le français
