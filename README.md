@@ -19,20 +19,17 @@
 - ⚡ Fun fact: Je connais un peu le français
 
 <p align="center">
-<img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="java" width="40" height="60"/> 
+<img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="java" width="45" height="65"/> 
 <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="75" height="50"/> 
-<img src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" alt="python" width="40" height="60"/>
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="35" height="35"/>
-<img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="50" height="50"/> 
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" alt="python" width="45" height="65"/>
+<img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="spring" width="45" height="65"/>
+<img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="55" height="50"/> 
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="kubernetes" width="50" height="50"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/android/android-ar21.svg" alt="android" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="GIT" width="45" height="45"/> 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" alt="IPYNB" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png" alt="MAVEN" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="HEROKU" width="35" height="35"/> 
 <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
 </p>
 
