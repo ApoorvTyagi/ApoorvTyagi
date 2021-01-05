@@ -19,16 +19,16 @@
 - ⚡ Fun fact: Je connais un peu le français
 
 <p align="center">
-<img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="java" width="55" height="70"/> 
-<img src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" alt="python" width="55" height="65"/>
-<img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="spring" width="80" height="65"/>
-<img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="55" height="50"/> 
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="kubernetes" width="85" height="65"/>
-<img src="https://www.vectorlogo.zone/logos/android/android-ar21.svg" alt="android" width="85" height="65"/>
-<img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="90" height="55"/> 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="GIT" width="55" height="55"/> 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" alt="IPYNB" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
+      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="90" height="55"/> 
+      <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="java" width="55" height="70"/> 
+      <img src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" alt="python" width="55" height="65"/>
+      <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="spring" width="90" height="65"/>
+      <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="55" height="50"/> 
+      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="kubernetes" width="95" height="75"/>
+      <img src="https://www.vectorlogo.zone/logos/android/android-ar21.svg" alt="android" width="85" height="70"/>
+      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="GIT" width="60" height="60"/> 
+      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" alt="IPYNB" width="50"            height="50"/> 
+      <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="50" height="50"/> 
 </p>
 
 ---
