@@ -39,17 +39,15 @@
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress** { ██▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 8.50 % as on ⏰ 1-2-2021.
+⏳ **Year Progress** { ██▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 8.77 % as on ⏰ 2-2-2021.
 
 ---
 
 ### 📕 My Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [Five++ cool Python snippets that will blow your mind🤯](https://apoorvtyagi.tech/cool-python-snippets-that-will-blow-your-mind)
-- [How i automated my WhatsApp chats](https://apoorvtyagi.tech/how-i-automated-my-whatsapp-chats)
-- [Containerize your web application & deploy it on Kubernetes](https://apoorvtyagi.tech/containerize-your-web-application-and-deploy-it-on-kubernetes)
-- [Having a go at common NLP tasks using TextBlob](https://apoorvtyagi.tech/nlp-textblob)
-- [Tail recursion in python 🐍](https://apoorvtyagi.tech/tail-recursion-in-python)
+- [GIT INIT (Part-1)](https://apoorvtyagi.tech/git-init-part-1)
+- [Let Us Mine!!!](https://apoorvtyagi.tech/let-us-mine)
+- [Improving Time Complexity](https://apoorvtyagi.tech/improving-time-complexity)
 <!-- BLOG-POST-LIST:END -->
 ---
 
