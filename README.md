@@ -36,43 +36,18 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvtyagi&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.01% 
-🌆 Daytime    88 commits     ██████░░░░░░░░░░░░░░░░░░░   25.58% 
-🌃 Evening    172 commits    ████████████░░░░░░░░░░░░░   50.0% 
-🌙 Night      53 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.41%
-
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday       47 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.97% 
-Tuesday      27 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.6% 
-Wednesday    55 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.52% 
-Thursday     15 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.78% 
-Friday       19 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.05% 
-Saturday     65 commits     █████░░░░░░░░░░░░░░░░░░░░   20.7% 
-Sunday       86 commits     ██████░░░░░░░░░░░░░░░░░░░   27.39%
-
-```
-
-
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress** { ██▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 9.32 % as on ⏰ 4-2-2021.
+⏳ **Year Progress** { ██▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 9.59 % as on ⏰ 5-2-2021.
 
 ---
 
 ### 📕 My Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [Five++ cool Python snippets that will blow your mind🤯](https://apoorvtyagi.tech/cool-python-snippets-that-will-blow-your-mind)
-- [How i automated my WhatsApp chats](https://apoorvtyagi.tech/how-i-automated-my-whatsapp-chats)
-- [Containerize your web application & deploy it on Kubernetes](https://apoorvtyagi.tech/containerize-your-web-application-and-deploy-it-on-kubernetes)
-- [Having a go at common NLP tasks using TextBlob](https://apoorvtyagi.tech/nlp-textblob)
-- [Tail recursion in python 🐍](https://apoorvtyagi.tech/tail-recursion-in-python)
+- [GIT INIT (Part-1)](https://apoorvtyagi.tech/git-init-part-1)
+- [Let Us Mine!!!](https://apoorvtyagi.tech/let-us-mine)
+- [Improving Time Complexity](https://apoorvtyagi.tech/improving-time-complexity)
 <!-- BLOG-POST-LIST:END -->
 ---
 
