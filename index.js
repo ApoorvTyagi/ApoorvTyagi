@@ -28,9 +28,9 @@ const readme = `\
 - 🏦 I'm working as a Software Engineer for a Health-tech startup, based in India 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 I use daily **.java**, **.py**, **.sql**
-- 🌱 I’m currently learning docker and kubernetes
 - 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals), silicon valley & startups
 - 📝 I regulary write technical articles on [hashnode](https://apoorvtyagi.tech/) & [dev.to](https://dev.to/apoorvtyagi)
+- 🌱 I also run a weekly newsletter - [The Trojan - Wednesday Wisdom ⚡](https://newsletter.apoorvtyagi.tech/)
 - 👯 We can connect to play some games of Chess ♟
 - ⚡ Fun fact: Je connais un peu le français
 
