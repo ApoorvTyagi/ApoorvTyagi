@@ -30,7 +30,7 @@ const readme = `\
 - 💻 I use daily **.java**, **.py**, **.sql**
 - 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals), silicon valley & startups
 - 📝 I regulary write technical articles on [hashnode](https://apoorvtyagi.tech/) & [dev.to](https://dev.to/apoorvtyagi)
-- 🌱 I also run a weekly newsletter - [The Trojan - Wednesday Wisdom ⚡](https://newsletter.apoorvtyagi.tech/)
+- 🌱 I also run a weekly newsletter : [The Trojan - Wednesday Wisdom ⚡](https://newsletter.apoorvtyagi.tech/)
 - 👯 We can connect to play some games of Chess ♟
 - ⚡ Fun fact: Je connais un peu le français
 
