@@ -13,7 +13,7 @@
 - 💻 I use daily **.java**, **.py**, **.sql**
 - 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals), silicon valley & startups
 - 📝 I regulary write technical articles on [hashnode](https://apoorvtyagi.tech/) & [dev.to](https://dev.to/apoorvtyagi)
-- 🌱 I also run a weekly newsletter - [The Trojan - Wednesday Wisdom ⚡](https://newsletter.apoorvtyagi.tech/)
+- 🌱 I also run a weekly newsletter : [The Trojan - Wednesday Wisdom ⚡](https://newsletter.apoorvtyagi.tech/)
 - 👯 We can connect to play some games of Chess ♟
 - ⚡ Fun fact: Je connais un peu le français
 
@@ -36,45 +36,21 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvtyagi&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.67% 
-🌆 Daytime    87 commits     ██████░░░░░░░░░░░░░░░░░░░   25.14% 
-🌃 Evening    177 commits    ████████████░░░░░░░░░░░░░   51.16% 
-🌙 Night      52 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.03%
-
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday       47 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.87% 
-Tuesday      27 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.54% 
-Wednesday    54 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.09% 
-Thursday     15 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.75% 
-Friday       20 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.33% 
-Saturday     71 commits     █████░░░░░░░░░░░░░░░░░░░░   22.47% 
-Sunday       82 commits     ██████░░░░░░░░░░░░░░░░░░░   25.95%
-
-```
-
-
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress** { ███▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 10.41 % as on ⏰ 8-2-2021.
+⏳ **Year Progress** { ███▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 10.69 % as on ⏰ 9-2-2021.
 
 ---
 
 ### 📕 My Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [Five++ cool Python snippets that will blow your mind🤯](https://apoorvtyagi.tech/cool-python-snippets-that-will-blow-your-mind)
-- [How i automated my WhatsApp chats](https://apoorvtyagi.tech/how-i-automated-my-whatsapp-chats)
-- [Containerize your web application & deploy it on Kubernetes](https://apoorvtyagi.tech/containerize-your-web-application-and-deploy-it-on-kubernetes)
-- [Having a go at common NLP tasks using TextBlob](https://apoorvtyagi.tech/nlp-textblob)
-- [Tail recursion in python 🐍](https://apoorvtyagi.tech/tail-recursion-in-python)
+- [GIT INIT (Part-1)](https://apoorvtyagi.tech/git-init-part-1)
+- [Let Us Mine!!!](https://apoorvtyagi.tech/let-us-mine)
+- [Improving Time Complexity](https://apoorvtyagi.tech/improving-time-complexity)
 <!-- BLOG-POST-LIST:END -->
 ---
 
 ### 😜Here's a Joke for you:
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
