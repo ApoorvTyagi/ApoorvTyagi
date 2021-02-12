@@ -8,12 +8,12 @@
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 ### 🤵 About Me:
-- 🏦 I'm working as a Software Engineer for a Health-tech startup, based in India 
+- 🏦 I'm working as a Software Engineer for a Health-tech startup, in India 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 📝 I regulary write technical articles on [hashnode](https://apoorvtyagi.tech/) & [dev.to](https://dev.to/apoorvtyagi)
+- 🌱 I also run a tech weekly newsletter : [The Trojan - Wednesday Wisdom ⚡](https://newsletter.apoorvtyagi.tech/)
 - 💻 I use daily **.java**, **.py**, **.sql**
 - 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals), silicon valley & startups
-- 📝 I regulary write technical articles on [hashnode](https://apoorvtyagi.tech/) & [dev.to](https://dev.to/apoorvtyagi)
-- 🌱 I also run a weekly newsletter : [The Trojan - Wednesday Wisdom ⚡](https://newsletter.apoorvtyagi.tech/)
 - 👯 We can connect to play some games of Chess ♟
 - ⚡ Fun fact: Je connais un peu le français
 
@@ -36,46 +36,21 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvtyagi&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    29 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.31% 
-🌆 Daytime    89 commits     ██████░░░░░░░░░░░░░░░░░░░   25.5% 
-🌃 Evening    178 commits    ████████████░░░░░░░░░░░░░   51.0% 
-🌙 Night      53 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.19%
-
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday       47 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.73% 
-Tuesday      28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.78% 
-Wednesday    56 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.55% 
-Thursday     15 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.7% 
-Friday       20 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.27% 
-Saturday     71 commits     █████░░░░░░░░░░░░░░░░░░░░   22.26% 
-Sunday       82 commits     ██████░░░░░░░░░░░░░░░░░░░   25.71%
-
-```
-
-
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress** { ███▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 11.24 % as on ⏰ 11-2-2021.
+⏳ **Year Progress** { ███▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 11.51 % as on ⏰ 12-2-2021.
 
 ---
 
 ### 📕 My Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [What is Blockchain Technology? Learn by creating one](https://apoorvtyagi.tech/creating-blockchain-python)
-- [Five++ cool Python snippets that will blow your mind🤯](https://apoorvtyagi.tech/cool-python-snippets-that-will-blow-your-mind)
-- [How i automated my WhatsApp chats](https://apoorvtyagi.tech/how-i-automated-my-whatsapp-chats)
-- [Containerize your web application & deploy it on Kubernetes](https://apoorvtyagi.tech/containerize-your-web-application-and-deploy-it-on-kubernetes)
-- [Having a go at common NLP tasks using TextBlob](https://apoorvtyagi.tech/nlp-textblob)
+- [GIT INIT (Part-1)](https://apoorvtyagi.tech/git-init-part-1)
+- [Let Us Mine!!!](https://apoorvtyagi.tech/let-us-mine)
+- [Improving Time Complexity](https://apoorvtyagi.tech/improving-time-complexity)
 <!-- BLOG-POST-LIST:END -->
 ---
 
 ### 😜Here's a Joke for you:
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<img src="https://readme-jokes.vercel.app/api" alt="Refresh again to view Jokes Card" />
 
