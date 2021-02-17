@@ -8,11 +8,12 @@
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 ### 🤵 About Me:
-- 🏦 I'm working as a Software Engineer for a Health-tech startup, in India 
+- 🏦 I'm a Software Engineer working for a health tech startup in India 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📝 I regulary write technical articles on [hashnode](https://apoorvtyagi.tech/) & [dev.to](https://dev.to/apoorvtyagi)
 - 🌱 I also run a tech weekly newsletter : [The Trojan - Wednesday Wisdom ⚡](https://newsletter.apoorvtyagi.tech/)
 - 💻 I use daily **.java**, **.py**, **.sql**
+- 📖 I am currently reading zero to one by Peter Thiel
 - 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals), silicon valley & startups
 - 👯 We can connect to play some games of Chess ♟
 - ⚡ Fun fact: Je connais un peu le français
