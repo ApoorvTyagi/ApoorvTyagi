@@ -77,13 +77,6 @@ Sunday       84 commits     ██████░░░░░░░░░░░�
 <!-- BLOG-POST-LIST:END -->
 ---
 
-### 🐤 My Latest Tweets:
-
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=apoorv__tyagi&layout=wide&show_reply=off&show_border=hide%20border)](https://twitter.com/apoorv__tyagi)
-
-
----
-
 ### 😜Here's a Joke for you:
 <img src="https://readme-jokes.vercel.app/api" alt="Refresh again to view Jokes Card" />
 
