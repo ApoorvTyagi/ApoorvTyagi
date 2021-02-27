@@ -79,7 +79,7 @@ Sunday       84 commits     ██████░░░░░░░░░░░�
 
 ### 🐤 My Latest Tweets:
 
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=apoorv__tyagi&layout=wide&show_reply=off&show_border=hide%20border)](https://github.com/gazf/github-readme-twitter)
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=apoorv__tyagi&layout=wide&show_reply=off&show_border=hide%20border)](https://twitter.com/apoorv__tyagi)
 
 
 ---
