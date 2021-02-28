@@ -37,43 +37,18 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvtyagi&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    27 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.63% 
-🌆 Daytime    90 commits     ██████░░░░░░░░░░░░░░░░░░░   25.42% 
-🌃 Evening    184 commits    █████████████░░░░░░░░░░░░   51.98% 
-🌙 Night      53 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.97%
-
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday       43 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.31% 
-Tuesday      29 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.98% 
-Wednesday    58 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.96% 
-Thursday     16 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.95% 
-Friday       21 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.5% 
-Saturday     72 commits     █████░░░░░░░░░░░░░░░░░░░░   22.29% 
-Sunday       84 commits     ██████░░░░░░░░░░░░░░░░░░░   26.01%
-
-```
-
-
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress** { ████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 15.62 % as on ⏰ 27-2-2021.
+⏳ **Year Progress** { ████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 15.89 % as on ⏰ 28-2-2021.
 
 ---
 
 ### 📕 My Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [What is Blockchain Technology? Learn by creating one](https://apoorvtyagi.tech/creating-blockchain-python)
-- [Five++ cool Python snippets that will blow your mind🤯](https://apoorvtyagi.tech/cool-python-snippets-that-will-blow-your-mind)
-- [How I Automated My WhatsApp chats](https://apoorvtyagi.tech/how-i-automated-my-whatsapp-chats)
-- [Containerize your web application & deploy it on Kubernetes](https://apoorvtyagi.tech/containerize-your-web-application-and-deploy-it-on-kubernetes)
-- [Having a go at common NLP tasks using TextBlob](https://apoorvtyagi.tech/nlp-textblob)
+- [GIT INIT (Part-1)](https://apoorvtyagi.tech/git-init-part-1)
+- [Let Us Mine!!!](https://apoorvtyagi.tech/let-us-mine)
+- [Improving Time Complexity](https://apoorvtyagi.tech/improving-time-complexity)
 <!-- BLOG-POST-LIST:END -->
 ---
 
