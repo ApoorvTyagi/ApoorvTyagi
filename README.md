@@ -46,9 +46,11 @@
 
 ### 📕 My Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [GIT INIT (Part-1)](https://apoorvtyagi.tech/git-init-part-1)
-- [Let Us Mine!!!](https://apoorvtyagi.tech/let-us-mine)
-- [Improving Time Complexity](https://apoorvtyagi.tech/improving-time-complexity)
+- [JavaScript - Nullish Coalescing Operator (??) vs Logical OR (||) 🤔](https://apoorvtyagi.tech/nullish-coalescing-operator-vs-logical-or-javascript)
+- [Welcome to the world of "NFTs"](https://apoorvtyagi.tech/welcome-to-the-world-of-nft)
+- [What is Blockchain Technology? Learn by creating one](https://apoorvtyagi.tech/creating-blockchain-python)
+- [Five++ cool Python snippets that will blow your mind🤯](https://apoorvtyagi.tech/cool-python-snippets-that-will-blow-your-mind)
+- [How I Automated My WhatsApp chats](https://apoorvtyagi.tech/how-i-automated-my-whatsapp-chats)
 <!-- BLOG-POST-LIST:END -->
 ---
 
