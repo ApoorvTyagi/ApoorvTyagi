@@ -28,7 +28,7 @@ const readme = `\
 - 🏦 I'm a Software Engineer working for a health tech startup in India 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📝 I regulary write technical articles on [hashnode](https://apoorvtyagi.tech/) & [dev.to](https://dev.to/apoorvtyagi)
-- 🌱 I also run a tech weekly newsletter : [The Trojan - Wednesday Wisdom ⚡](https://newsletter.apoorvtyagi.tech/)
+- 🌱 I also run a tech newsletter : [The Trojan - Wednesday Wisdom ⚡](https://newsletter.apoorvtyagi.tech/)
 - 💻 I use daily **.java**, **.py**, **.sql**
 - 📖 I am currently reading [zero to one by Peter Thiel](https://amzn.to/3dTQa0k)
 - 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals), silicon valley & startups
