@@ -11,7 +11,7 @@
 - 🏦 I'm a Software Engineer working for a health tech startup in India 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📝 I regulary write technical articles on [hashnode](https://apoorvtyagi.tech/) & [dev.to](https://dev.to/apoorvtyagi)
-- 🌱 I also run a tech weekly newsletter : [The Trojan - Wednesday Wisdom ⚡](https://newsletter.apoorvtyagi.tech/)
+- 🌱 I also run a tech newsletter : [The Trojan - Wednesday Wisdom ⚡](https://newsletter.apoorvtyagi.tech/)
 - 💻 I use daily **.java**, **.py**, **.sql**
 - 📖 I am currently reading [zero to one by Peter Thiel](https://amzn.to/3dTQa0k)
 - 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals), silicon valley & startups
@@ -37,43 +37,18 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvtyagi&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    33 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.94% 
-🌆 Daytime    96 commits     ██████░░░░░░░░░░░░░░░░░░░   26.02% 
-🌃 Evening    189 commits    ████████████░░░░░░░░░░░░░   51.22% 
-🌙 Night      51 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.82%
-
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday       43 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.72% 
-Tuesday      31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.17% 
-Wednesday    64 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.93% 
-Thursday     16 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.73% 
-Friday       21 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.21% 
-Saturday     75 commits     █████░░░░░░░░░░░░░░░░░░░░   22.19% 
-Sunday       88 commits     ██████░░░░░░░░░░░░░░░░░░░   26.04%
-
-```
-
-
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress** { ████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 26.85 % as on ⏰ 9-4-2021.
+⏳ **Year Progress** { ████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 27.12 % as on ⏰ 10-4-2021.
 
 ---
 
 ### 📕 My Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [Debunking YOUR Basic Math Concepts](https://apoorvtyagi.tech/mythbusting-mathematics-can-you-solve-this)
-- [JavaScript -Better way to check for "Nullish" Value Only!](https://apoorvtyagi.tech/nullish-coalescing-operator-vs-logical-or-javascript)
-- [Welcome to the world of "NFTs"](https://apoorvtyagi.tech/welcome-to-the-world-of-nft)
-- [What is Blockchain Technology? Learn by creating one](https://apoorvtyagi.tech/creating-blockchain-python)
-- [Five++ cool Python snippets that will blow your mind🤯](https://apoorvtyagi.tech/cool-python-snippets-that-will-blow-your-mind)
+- [GIT INIT (Part-1)](https://apoorvtyagi.tech/git-init-part-1)
+- [Let Us Mine!!!](https://apoorvtyagi.tech/let-us-mine)
+- [Improving Time Complexity](https://apoorvtyagi.tech/improving-time-complexity)
 <!-- BLOG-POST-LIST:END -->
 ---
 
