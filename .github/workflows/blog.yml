@@ -18,7 +18,7 @@ jobs:
         with:
           USERNAME: 'apoorvtyagi'
           COUNT: 5
-          STYLE: "blog-alternate"
+          STYLE: "blog-grid"
           BLOG_URL: 'https://apoorvtyagi.tech/'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
