@@ -82,11 +82,40 @@ Sunday       89 commits     ██████░░░░░░░░░░░�
 - [Five++ cool Python snippets that will blow your mind🤯](https://apoorvtyagi.tech/cool-python-snippets-that-will-blow-your-mind)
 <!-- BLOG-POST-LIST:END -->
 <!-- HASHNODE_BLOG:START -->
-- [Debunking YOUR Basic Math Concepts](https://apoorvtyagi.tech//mythbusting-mathematics-can-you-solve-this)
-- [JavaScript -Better way to check for "Nullish" Value Only!](https://apoorvtyagi.tech//nullish-coalescing-operator-vs-logical-or-javascript)
-- [Welcome to the world of "NFTs"](https://apoorvtyagi.tech//welcome-to-the-world-of-nft)
-- [What is Blockchain Technology? Learn by creating one](https://apoorvtyagi.tech//creating-blockchain-python)
-- [Five++ cool Python snippets that will blow your mind🤯](https://apoorvtyagi.tech//cool-python-snippets-that-will-blow-your-mind)
+<h3><a href="https://apoorvtyagi.tech//mythbusting-mathematics-can-you-solve-this" title="Debunking YOUR Basic Math Concepts">Debunking YOUR Basic Math Concepts</a></h3>
+<a href="https://apoorvtyagi.tech//mythbusting-mathematics-can-you-solve-this" title="Debunking YOUR Basic Math Concepts"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1616997991556/y-lBsw2E8.jpeg" alt="Debunking YOUR Basic Math Concepts" width="400px" align="" /></a>
+<p>Sum of all positive integers
+What is 1+2? Ah, who doesn't know, it’s 3. What is 1+2+3? Well, it’s 6. (easy peasy lemon squeezy) 
+Now, what if I asked you to count the sum of all positive integers which is : 1+2+3+4…to infinity?
+That's it. This is the...</p>
+<h3><a href="https://apoorvtyagi.tech//nullish-coalescing-operator-vs-logical-or-javascript" title="JavaScript -Better way to check for "Nullish" Value Only!">JavaScript -Better way to check for "Nullish" Value Only!</a></h3>
+<a href="https://apoorvtyagi.tech//nullish-coalescing-operator-vs-logical-or-javascript" title="JavaScript -Better way to check for "Nullish" Value Only!"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1618116799633/6rzYlvImU.jpeg" alt="JavaScript -Better way to check for "Nullish" Value Only!" width="400px" align="" /></a>
+<p>Introduction
+A month ago, I got a chance to learn about the nullish coalescing operator in Javascript. So I decided to share that on my twitter and linkedIn.
+And the response which was common on both the posts was this 👇
+
+On Twitter
+
+https://twitter...</p>
+<h3><a href="https://apoorvtyagi.tech//welcome-to-the-world-of-nft" title="Welcome to the world of "NFTs"">Welcome to the world of "NFTs"</a></h3>
+<a href="https://apoorvtyagi.tech//welcome-to-the-world-of-nft" title="Welcome to the world of "NFTs""><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1615109600710/6-jmEGdPG.jpeg" alt="Welcome to the world of "NFTs"" width="400px" align="" /></a>
+<p>Introduction
+Recently, Digital collectibles have exploded in popularity because of NFTs. You’ve probably seen people in your social media feeds talking about NFTs too.
+The growing market for NFT is turning the art, music, gaming and finance industrie...</p>
+<h3><a href="https://apoorvtyagi.tech//creating-blockchain-python" title="What is Blockchain Technology? Learn by creating one">What is Blockchain Technology? Learn by creating one</a></h3>
+<a href="https://apoorvtyagi.tech//creating-blockchain-python" title="What is Blockchain Technology? Learn by creating one"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1612689413329/zNVopQKM7.jpeg" alt="What is Blockchain Technology? Learn by creating one" width="400px" align="" /></a>
+<p>Introduction
+Blockchain - is a tamper-proof and a shared digital ledger that is used to record data such as payment transactions in a public or private peer-to-peer network. All the members in a blockchain network can view those transactions that are...</p>
+<h3><a href="https://apoorvtyagi.tech//cool-python-snippets-that-will-blow-your-mind" title="Five++ cool Python snippets that will blow your mind🤯">Five++ cool Python snippets that will blow your mind🤯</a></h3>
+<a href="https://apoorvtyagi.tech//cool-python-snippets-that-will-blow-your-mind" title="Five++ cool Python snippets that will blow your mind🤯"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1608359548799/5vA5xbcLg.png" alt="Five++ cool Python snippets that will blow your mind🤯" width="400px" align="" /></a>
+<p>Introduction
+Python is one of the world’s most popular and in-demand programming languages. This is for many reasons:
+
+Easy to learn
+Versatile
+Huge range of modules and libraries
+
+I almost use Python daily. Along the way, I’ve picked up a few clever ...</p>
 <!-- HASHNODE_BLOG:END -->
 ---
 
