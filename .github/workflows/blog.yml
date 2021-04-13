@@ -16,9 +16,9 @@ jobs:
       - name: "📚  Hashnode Updater"
         uses: "varunsridharan/action-hashnode-blog@main"
         with:
-          USERNAME: 'saviomartin'
+          USERNAME: 'apoorvtyagi'
           COUNT: 5
           STYLE: "blog-left"
-          BLOG_URL: 'https://savio.xyz'
+          BLOG_URL: 'https://apoorvtyagi.tech/'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
