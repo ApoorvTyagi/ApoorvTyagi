@@ -1,0 +1,14 @@
+name: Update Quote Readme
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Runs at 12 UTC everyday
+    - cron: "0 1 * * *"
+
+jobs:
+  update-readme:
+    name: Update Quote README
+    runs-on: ubuntu-latest
+    steps:
+      - uses: siddharth2016/quote-readme@main
