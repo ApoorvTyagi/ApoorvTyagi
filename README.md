@@ -5,7 +5,6 @@
 <a href="https://www.buymeacoffee.com/apoorvtyagi"><img align="center" alt="Buy me a Coffee" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" /></a>
 </p>
 
-
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 ### 🤵 About Me:
@@ -38,33 +37,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvtyagi&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    34 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.19% 
-🌆 Daytime    96 commits     ██████░░░░░░░░░░░░░░░░░░░   25.95% 
-🌃 Evening    189 commits    ████████████░░░░░░░░░░░░░   51.08% 
-🌙 Night      51 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.78%
-
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday       43 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.68% 
-Tuesday      30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.85% 
-Wednesday    64 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.88% 
-Thursday     16 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.72% 
-Friday       22 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.49% 
-Saturday     75 commits     █████░░░░░░░░░░░░░░░░░░░░   22.12% 
-Sunday       89 commits     ██████░░░░░░░░░░░░░░░░░░░   26.25%
-
-```
-
-
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress** { ████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 27.95 % as on ⏰ 13-4-2021.
+⏳ **Year Progress** { ████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 28.22 % as on ⏰ 14-4-2021.
 
 ---
 
@@ -82,9 +58,12 @@ Sunday       89 commits     ██████░░░░░░░░░░░�
 ---
 
 ### 🔉 A Fact/Quote:
+<a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝The first 1GB hard disk drive was announced in 1980 which weighed about 550 pounds, and had a price tag of $40,000.❞</i>
+<i>❝IMDb is one of the oldest websites on the internet, and began on Usenet in 1990 as a list of “actresses with beautiful eyes.”❞</i>
 <!--ENDS_HERE_QUOTE_README-->
+</a>
+
 ---
 
 ### 😜Here's a Joke for you:
