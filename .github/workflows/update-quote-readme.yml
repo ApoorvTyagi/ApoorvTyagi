@@ -11,4 +11,6 @@ jobs:
     name: Update Quote README
     runs-on: ubuntu-latest
     steps:
-      - uses: apoorvtyagi/quote-readme@main
+      - uses: ApoorvTyagi/quote-readme@main
+        with:
+          OPTION: both 
