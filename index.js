@@ -49,7 +49,7 @@ const readme = `\
 </p>
 
 ---
-### 🐱My Github stats:
+### 🐱My Github Stats:
 ![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=apoorvtyagi&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvtyagi&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -74,7 +74,7 @@ const readme = `\
 
 ---
 
-### 🔉 A Fact/Quote:
+### 🔉 An Interesting Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
 <i>❝IMDb is one of the oldest websites on the internet, and began on Usenet in 1990 as a list of “actresses with beautiful eyes.”❞</i>
@@ -83,7 +83,7 @@ const readme = `\
 
 ---
 
-### 😜Here's a Joke for you:
+### 😜 Here's a Joke for you:
 <img src="https://readme-jokes.vercel.app/api" alt="Refresh again to view Jokes Card" />
 `
 console.log(readme)
