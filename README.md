@@ -80,7 +80,7 @@ Sunday       84 commits     ██████░░░░░░░░░░░�
 
 ---
 
-### 🔉 An Interesting Fact/Quote:
+### 🔉 A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
 <i>❝ “The best way to predict the future is to implement it.”— David Heinemeier Hansson   ❞</i>
