@@ -70,7 +70,7 @@ const readme = `\
 - [Five++ cool Python snippets that will blow your mind🤯](https://apoorvtyagi.tech/cool-python-snippets-that-will-blow-your-mind)
 <!-- BLOG-POST-LIST:END -->
 
-▶ [... more blog articles](https://apoorvtyagi.tech/)
+▶ [... view more](https://apoorvtyagi.tech/)
 
 ---
 
