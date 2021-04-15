@@ -32,38 +32,15 @@
 </p>
 
 ---
-### 🐱My Github stats:
+### 🐱My Github Stats:
 ![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=apoorvtyagi&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvtyagi&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    34 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.12% 
-🌆 Daytime    96 commits     ██████░░░░░░░░░░░░░░░░░░░   25.74% 
-🌃 Evening    204 commits    █████████████░░░░░░░░░░░░   54.69% 
-🌙 Night      39 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.46%
-
-```
-**I'm Most Productive on Sunday** 📅 
-
-```text
-Monday       41 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.99% 
-Tuesday      45 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.16% 
-Wednesday    62 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.13% 
-Thursday     14 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.09% 
-Friday       20 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.85% 
-Saturday     73 commits     █████░░░░░░░░░░░░░░░░░░░░   21.35% 
-Sunday       87 commits     ██████░░░░░░░░░░░░░░░░░░░   25.44%
-
-```
-
-
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress** { ████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 28.22 % as on ⏰ 14-4-2021.
+⏳ **Year Progress** { ████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 28.49 % as on ⏰ 15-4-2021.
 
 ---
 
@@ -80,15 +57,15 @@ Sunday       87 commits     ██████░░░░░░░░░░░�
 
 ---
 
-### 🔉 A Fact/Quote:
+### 🔉 An Interesting Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝ During the production of Toy Story 2, Pixar accidentally deleted the entire movie from its servers. The movie was saved by an employee, a new mother, who worked from home and had the data saved on her personal computer.❞</i>
+<i>❝IMDb is one of the oldest websites on the internet, and began on Usenet in 1990 as a list of “actresses with beautiful eyes.”❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
 ---
 
-### 😜Here's a Joke for you:
+### 😜 Here's a Joke for you:
 <img src="https://readme-jokes.vercel.app/api" alt="Refresh again to view Jokes Card" />
 
