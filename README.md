@@ -83,7 +83,7 @@ Sunday       84 commits     ██████░░░░░░░░░░░�
 ### 🔉 A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>Facebook has over a billion users. If it was a country it would be the third largest in the world.</i>
+• <i>Windows 95 was the second most installed piece of software on computers in 1995, video game DOOM was first.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
