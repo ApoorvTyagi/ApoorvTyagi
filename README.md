@@ -37,33 +37,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvtyagi&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    34 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
-🌆 Daytime    96 commits     ██████░░░░░░░░░░░░░░░░░░░   25.67% 
-🌃 Evening    205 commits    █████████████░░░░░░░░░░░░   54.81% 
-🌙 Night      39 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.43%
-
-```
-**I'm Most Productive on Sunday** 📅 
-
-```text
-Monday       41 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.95% 
-Tuesday      45 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.12% 
-Wednesday    66 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.24% 
-Thursday     14 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.08% 
-Friday       20 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.83% 
-Saturday     73 commits     █████░░░░░░░░░░░░░░░░░░░░   21.28% 
-Sunday       84 commits     ██████░░░░░░░░░░░░░░░░░░░   24.49%
-
-```
-
-
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress** { ████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 28.49 % as on ⏰ 15-4-2021.
+⏳ **Year Progress** { ████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 28.77 % as on ⏰ 16-4-2021.
 
 ---
 
@@ -83,7 +60,7 @@ Sunday       84 commits     ██████░░░░░░░░░░░�
 ### 🔉 A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>Windows 95 was the second most installed piece of software on computers in 1995, video game DOOM was first.</i>
+<i>❝IMDb is one of the oldest websites on the internet, and began on Usenet in 1990 as a list of “actresses with beautiful eyes.”❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
