@@ -37,33 +37,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvtyagi&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    36 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.63% 
-🌆 Daytime    96 commits     ██████░░░░░░░░░░░░░░░░░░░   25.67% 
-🌃 Evening    203 commits    █████████████░░░░░░░░░░░░   54.28% 
-🌙 Night      39 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.43%
-
-```
-**I'm Most Productive on Sunday** 📅 
-
-```text
-Monday       41 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.95% 
-Tuesday      45 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.12% 
-Wednesday    66 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.24% 
-Thursday     18 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.25% 
-Friday       20 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.83% 
-Saturday     71 commits     █████░░░░░░░░░░░░░░░░░░░░   20.7% 
-Sunday       82 commits     ██████░░░░░░░░░░░░░░░░░░░   23.91%
-
-```
-
-
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress** { ████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 28.77 % as on ⏰ 16-4-2021.
+⏳ **Year Progress** { ████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 29.04 % as on ⏰ 17-4-2021.
 
 ---
 
@@ -83,7 +60,7 @@ Sunday       82 commits     ██████░░░░░░░░░░░�
 ### 🔉 A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“A computer once beat me at chess, but it was no match for me at kick boxing.”— Emo Philips  </i>
+<i>❝IMDb is one of the oldest websites on the internet, and began on Usenet in 1990 as a list of “actresses with beautiful eyes.”❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
