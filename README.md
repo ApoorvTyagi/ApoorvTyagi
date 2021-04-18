@@ -37,43 +37,20 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvtyagi&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    36 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.57% 
-🌆 Daytime    97 commits     ██████░░░░░░░░░░░░░░░░░░░   25.8% 
-🌃 Evening    204 commits    █████████████░░░░░░░░░░░░   54.26% 
-🌙 Night      39 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.37%
-
-```
-**I'm Most Productive on Sunday** 📅 
-
-```text
-Monday       41 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.88% 
-Tuesday      45 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.04% 
-Wednesday    66 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.13% 
-Thursday     18 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.22% 
-Friday       22 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.38% 
-Saturday     71 commits     █████░░░░░░░░░░░░░░░░░░░░   20.58% 
-Sunday       82 commits     ██████░░░░░░░░░░░░░░░░░░░   23.77%
-
-```
-
-
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress** { ████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 29.04 % as on ⏰ 17-4-2021.
+⏳ **Year Progress** { ████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 29.32 % as on ⏰ 18-4-2021.
 
 ---
 
 ### 📕 My Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [Useful Resources To Learn Web Development & To Create Your Website](https://apoorvtyagi.tech/useful-resources-to-learn-web-development-and-to-create-your-website)
 - [Debunking YOUR Basic Math Concepts](https://apoorvtyagi.tech/mythbusting-mathematics-can-you-solve-this)
 - [JavaScript -Better way to check for "Nullish" Value Only!](https://apoorvtyagi.tech/nullish-coalescing-operator-vs-logical-or-javascript)
 - [Welcome to the world of "NFTs"](https://apoorvtyagi.tech/welcome-to-the-world-of-nft)
 - [What is Blockchain Technology? Learn by creating one](https://apoorvtyagi.tech/creating-blockchain-python)
+- [Five++ cool Python snippets that will blow your mind🤯](https://apoorvtyagi.tech/cool-python-snippets-that-will-blow-your-mind)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [... view more](https://apoorvtyagi.tech/)
@@ -83,7 +60,7 @@ Sunday       82 commits     ██████░░░░░░░░░░░�
 ### 🔉 A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“Computers are good at following instructions, but not at reading your mind.”— Donald Knuth   </i>
+<i>❝IMDb is one of the oldest websites on the internet, and began on Usenet in 1990 as a list of “actresses with beautiful eyes.”❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
