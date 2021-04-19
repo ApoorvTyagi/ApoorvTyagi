@@ -83,7 +83,7 @@ Sunday       82 commits     ██████░░░░░░░░░░░�
 ### 🔉 A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝IMDb is one of the oldest websites on the internet, and began on Usenet in 1990 as a list of “actresses with beautiful eyes.”❞</i>
+• <i>“If the code and the comments do not match, possibly both are incorrect.”— Norm Schryer   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
