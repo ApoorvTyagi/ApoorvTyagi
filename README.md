@@ -37,43 +37,20 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvtyagi&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    38 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.92% 
-🌆 Daytime    102 commits    ██████░░░░░░░░░░░░░░░░░░░   26.63% 
-🌃 Evening    204 commits    █████████████░░░░░░░░░░░░   53.26% 
-🌙 Night      39 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.18%
-
-```
-**I'm Most Productive on Sunday** 📅 
-
-```text
-Monday       41 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.65% 
-Tuesday      45 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.78% 
-Wednesday    71 commits     █████░░░░░░░░░░░░░░░░░░░░   20.17% 
-Thursday     18 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.11% 
-Friday       22 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
-Saturday     73 commits     █████░░░░░░░░░░░░░░░░░░░░   20.74% 
-Sunday       82 commits     █████░░░░░░░░░░░░░░░░░░░░   23.3%
-
-```
-
-
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress** { █████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 30.69 % as on ⏰ 23-4-2021.
+⏳ **Year Progress** { █████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 30.96 % as on ⏰ 24-4-2021.
 
 ---
 
 ### 📕 My Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [The Most Famous Coding Interview Question](https://apoorvtyagi.tech/the-most-famous-coding-interview-question)
-- [Useful Resources To Learn Web Development & To Create Your Website](https://apoorvtyagi.tech/useful-resources-to-learn-web-development-and-to-create-your-website)
 - [Debunking YOUR Basic Math Concepts](https://apoorvtyagi.tech/mythbusting-mathematics-can-you-solve-this)
 - [JavaScript -Better way to check for "Nullish" Value Only!](https://apoorvtyagi.tech/nullish-coalescing-operator-vs-logical-or-javascript)
 - [Welcome to the world of "NFTs"](https://apoorvtyagi.tech/welcome-to-the-world-of-nft)
+- [What is Blockchain Technology? Learn by creating one](https://apoorvtyagi.tech/creating-blockchain-python)
+- [Five++ cool Python snippets that will blow your mind🤯](https://apoorvtyagi.tech/cool-python-snippets-that-will-blow-your-mind)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [... view more](https://apoorvtyagi.tech/)
@@ -83,7 +60,7 @@ Sunday       82 commits     █████░░░░░░░░░░░░�
 ### 🔉 A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“Yes, we have a dress code. You have to dress.”— Scott McNealy, co-founder of Sun Microsystems   </i>
+<i>❝IMDb is one of the oldest websites on the internet, and began on Usenet in 1990 as a list of “actresses with beautiful eyes.”❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
