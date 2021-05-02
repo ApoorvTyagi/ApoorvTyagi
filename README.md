@@ -67,7 +67,7 @@ Sunday       84 commits     ██████░░░░░░░░░░░�
 
 ---
 
-### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px> My Latest Blog posts:
+### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 23px> My Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
 - [Chrome extensions I use to enhance my GITHUB experience](https://apoorvtyagi.tech/7-chrome-extensions-to-enhance-github-experience)
 - [The Most Famous Coding Interview Question](https://apoorvtyagi.tech/the-most-famous-coding-interview-question)
@@ -76,7 +76,7 @@ Sunday       84 commits     ██████░░░░░░░░░░░�
 - [JavaScript -Better way to check for "Nullish" Value Only!](https://apoorvtyagi.tech/nullish-coalescing-operator-vs-logical-or-javascript)
 <!-- BLOG-POST-LIST:END -->
 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="20px"> [... view more](https://apoorvtyagi.tech/)
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="19px"> [... view more](https://apoorvtyagi.tech/)
 
 ---
 
