@@ -76,7 +76,7 @@ Sunday       84 commits     ██████░░░░░░░░░░░�
 - [JavaScript -Better way to check for "Nullish" Value Only!](https://apoorvtyagi.tech/nullish-coalescing-operator-vs-logical-or-javascript)
 <!-- BLOG-POST-LIST:END -->
 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="18px"> [... view more](https://apoorvtyagi.tech/)
+▶ [... view more](https://apoorvtyagi.tech/) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="18px">
 
 ---
 
