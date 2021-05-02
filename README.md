@@ -80,7 +80,7 @@ Sunday       84 commits     ██████░░░░░░░░░░░�
 
 ---
 
-### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="15vw" /> A Famous Fact/Quote:
+### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="19vw" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
 • <i>“There is only one problem with common sense; it’s not very common.”— Milt Bryce   </i>
@@ -89,6 +89,6 @@ Sunday       84 commits     ██████░░░░░░░░░░░�
 
 ---
 
-### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='25px'> Here's some humor for you:
+### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29px'> Here's some humor for you:
 <img src="https://readme-jokes.vercel.app/api" alt="Refresh again to view Jokes Card" />
 
