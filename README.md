@@ -46,11 +46,11 @@
 
 ### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 23px> My Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [Debunking YOUR Basic Math Concepts](https://apoorvtyagi.tech/mythbusting-mathematics-can-you-solve-this)
-- [JavaScript -Better way to check for "Nullish" Value Only!](https://apoorvtyagi.tech/nullish-coalescing-operator-vs-logical-or-javascript)
-- [Welcome to the world of "NFTs"](https://apoorvtyagi.tech/welcome-to-the-world-of-nft)
-- [What is Blockchain Technology? Learn by creating one](https://apoorvtyagi.tech/creating-blockchain-python)
-- [Five++ cool Python snippets that will blow your mind🤯](https://apoorvtyagi.tech/cool-python-snippets-that-will-blow-your-mind)
+- [Generating unique IDs in a Large scale Distributed environment](https://apoorvtyagi.tech/generating-unique-ids-in-a-large-scale-distributed-environment)
+- [Dunning Kruger Effect and Imposter Syndrome](https://apoorvtyagi.tech/dunning-kruger-effect-and-imposter-syndrome)
+- [Chrome extensions I use to enhance my GITHUB experience](https://apoorvtyagi.tech/7-chrome-extensions-to-enhance-github-experience)
+- [The Most Famous Coding Interview Question](https://apoorvtyagi.tech/the-most-famous-coding-interview-question)
+- [Useful Resources To Learn Web Development & To Create Your Website](https://apoorvtyagi.tech/useful-resources-to-learn-web-development-and-to-create-your-website)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [... view more](https://apoorvtyagi.tech/)
