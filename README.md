@@ -39,43 +39,20 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvtyagi&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    36 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.76% 
-🌆 Daytime    107 commits    ███████░░░░░░░░░░░░░░░░░░   29.0% 
-🌃 Evening    187 commits    ████████████░░░░░░░░░░░░░   50.68% 
-🌙 Night      39 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.57%
-
-```
-**I'm Most Productive on Sunday** 📅 
-
-```text
-Monday       44 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.87% 
-Tuesday      38 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
-Wednesday    72 commits     █████░░░░░░░░░░░░░░░░░░░░   21.05% 
-Thursday     9 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.63% 
-Friday       20 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.85% 
-Saturday     60 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.54% 
-Sunday       99 commits     ███████░░░░░░░░░░░░░░░░░░   28.95%
-
-```
-
-
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress** { █████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 44.12 % as on ⏰ 11-6-2021.
+⏳ **Year Progress** { █████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 44.39 % as on ⏰ 12-6-2021.
 
 ---
 
 ### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 23px> My Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [Generating unique IDs in a Large scale Distributed environment](https://apoorvtyagi.tech/generating-unique-ids-in-a-large-scale-distributed-environment)
-- [Dunning Kruger Effect and Imposter Syndrome](https://apoorvtyagi.tech/dunning-kruger-effect-and-imposter-syndrome)
-- [Chrome extensions I use to enhance my GITHUB experience](https://apoorvtyagi.tech/7-chrome-extensions-to-enhance-github-experience)
-- [The Most Famous Coding Interview Question](https://apoorvtyagi.tech/the-most-famous-coding-interview-question)
-- [Useful Resources To Learn Web Development & To Create Your Website](https://apoorvtyagi.tech/useful-resources-to-learn-web-development-and-to-create-your-website)
+- [Debunking YOUR Basic Math Concepts](https://apoorvtyagi.tech/mythbusting-mathematics-can-you-solve-this)
+- [JavaScript -Better way to check for "Nullish" Value Only!](https://apoorvtyagi.tech/nullish-coalescing-operator-vs-logical-or-javascript)
+- [Welcome to the world of "NFTs"](https://apoorvtyagi.tech/welcome-to-the-world-of-nft)
+- [What is Blockchain Technology? Learn by creating one](https://apoorvtyagi.tech/creating-blockchain-python)
+- [Five++ cool Python snippets that will blow your mind🤯](https://apoorvtyagi.tech/cool-python-snippets-that-will-blow-your-mind)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [... view more](https://apoorvtyagi.tech/)
@@ -85,7 +62,7 @@ Sunday       99 commits     ███████░░░░░░░░░░�
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“I think it’s a new feature.  Don’t tell anyone it was an accident.”— Larry Wall   </i>
+<i>❝IMDb is one of the oldest websites on the internet, and began on Usenet in 1990 as a list of “actresses with beautiful eyes.”❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
