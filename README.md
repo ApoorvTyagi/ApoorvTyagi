@@ -38,43 +38,20 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvtyagi&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    41 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.57% 
-🌆 Daytime    128 commits    ████████░░░░░░░░░░░░░░░░░   32.99% 
-🌃 Evening    171 commits    ███████████░░░░░░░░░░░░░░   44.07% 
-🌙 Night      48 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.37%
-
-```
-**I'm Most Productive on Sunday** 📅 
-
-```text
-Monday       49 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.5% 
-Tuesday      38 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.47% 
-Wednesday    73 commits     █████░░░░░░░░░░░░░░░░░░░░   20.11% 
-Thursday     12 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.31% 
-Friday       23 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.34% 
-Saturday     74 commits     █████░░░░░░░░░░░░░░░░░░░░   20.39% 
-Sunday       94 commits     ██████░░░░░░░░░░░░░░░░░░░   25.9%
-
-```
-
-
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress** { █████████████████▁▁▁▁▁▁▁▁▁▁▁▁▁ } 56.99 % as on ⏰ 28-7-2021.
+⏳ **Year Progress** { █████████████████▁▁▁▁▁▁▁▁▁▁▁▁▁ } 57.27 % as on ⏰ 29-7-2021.
 
 ---
 
 ### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 23px> My Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [NanoID - A URL Friendly Unique Identifier](https://apoorvtyagi.tech/nanoid-url-friendly-unique-id)
-- [JavaScript Tips and Best Practices](https://apoorvtyagi.tech/javascript-tips-and-best-practices)
-- [Five++ cool Python snippets (Part - 2)](https://apoorvtyagi.tech/five-cool-python-snippets-part-2)
-- [Why you can't name a file "CON" in Windows?](https://apoorvtyagi.tech/why-you-cant-name-a-file-con-in-windows)
-- [Metrics to evaluate your Machine Learning algorithm](https://apoorvtyagi.tech/metrics-to-evaluate-your-machine-learning-algorithm)
+- [Debunking YOUR Basic Math Concepts](https://apoorvtyagi.tech/mythbusting-mathematics-can-you-solve-this)
+- [JavaScript -Better way to check for "Nullish" Value Only!](https://apoorvtyagi.tech/nullish-coalescing-operator-vs-logical-or-javascript)
+- [Welcome to the world of "NFTs"](https://apoorvtyagi.tech/welcome-to-the-world-of-nft)
+- [What is Blockchain Technology? Learn by creating one](https://apoorvtyagi.tech/creating-blockchain-python)
+- [Five++ cool Python snippets that will blow your mind🤯](https://apoorvtyagi.tech/cool-python-snippets-that-will-blow-your-mind)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [... view more](https://apoorvtyagi.tech/)
@@ -84,7 +61,7 @@ Sunday       94 commits     ██████░░░░░░░░░░░�
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>Hard disks are so sensitive to vibration, that just screaming at them diminishes their performance.</i>
+<i>❝IMDb is one of the oldest websites on the internet, and began on Usenet in 1990 as a list of “actresses with beautiful eyes.”❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
