@@ -39,43 +39,20 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ApoorvTyagi&theme=dark)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    35 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.67% 
-🌆 Daytime    111 commits    ███████░░░░░░░░░░░░░░░░░░   30.66% 
-🌃 Evening    178 commits    ████████████░░░░░░░░░░░░░   49.17% 
-🌙 Night      38 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.5%
-
-```
-**I'm Most Productive on Sunday** 📅 
-
-```text
-Monday       47 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.54% 
-Tuesday      28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.07% 
-Wednesday    59 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.0% 
-Thursday     21 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.05% 
-Friday       30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.65% 
-Saturday     71 commits     █████░░░░░░░░░░░░░░░░░░░░   20.46% 
-Sunday       91 commits     ██████░░░░░░░░░░░░░░░░░░░   26.22%
-
-```
-
-
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress** { ███████████████████████▁▁▁▁▁▁▁ } 78.09 % as on ⏰ 12-Oct-2021
+⏳ **Year Progress** { ███████████████████████▁▁▁▁▁▁▁ } 78.36 % as on ⏰ 13-Oct-2021
 
 ---
 
 ### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 23px> My Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [Building Microservices using Spring Boot + HarperDB and Deploying it on AWS](https://apoorvtyagi.tech/building-microservices-using-spring-boot-harperdb-and-deploying-it-on-aws)
-- [Javascript Clean Code Tips & Good Practices](https://apoorvtyagi.tech/javascript-clean-code-tips-and-good-practices)
-- [NanoID - A URL Friendly Unique Identifier](https://apoorvtyagi.tech/nanoid-url-friendly-unique-id)
-- [JavaScript Tips and Best Practices](https://apoorvtyagi.tech/javascript-tips-and-best-practices)
-- [Five++ cool Python snippets (Part - 2)](https://apoorvtyagi.tech/five-cool-python-snippets-part-2)
+- [Debunking YOUR Basic Math Concepts](https://apoorvtyagi.tech/mythbusting-mathematics-can-you-solve-this)
+- [JavaScript -Better way to check for "Nullish" Value Only!](https://apoorvtyagi.tech/nullish-coalescing-operator-vs-logical-or-javascript)
+- [Welcome to the world of "NFTs"](https://apoorvtyagi.tech/welcome-to-the-world-of-nft)
+- [What is Blockchain Technology? Learn by creating one](https://apoorvtyagi.tech/creating-blockchain-python)
+- [Five++ cool Python snippets that will blow your mind🤯](https://apoorvtyagi.tech/cool-python-snippets-that-will-blow-your-mind)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [... view more](https://apoorvtyagi.tech/)
@@ -85,7 +62,7 @@ Sunday       91 commits     ██████░░░░░░░░░░░�
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>The first bug in a computer was a dead moth found shorting a relay in the Harvard Mark II computer in 1947</i>
+<i>❝IMDb is one of the oldest websites on the internet, and began on Usenet in 1990 as a list of “actresses with beautiful eyes.”❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
