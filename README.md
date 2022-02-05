@@ -39,55 +39,20 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ApoorvTyagi&theme=dark)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    52 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.17% 
-🌆 Daytime    110 commits    ███████░░░░░░░░░░░░░░░░░░   29.97% 
-🌃 Evening    174 commits    ███████████░░░░░░░░░░░░░░   47.41% 
-🌙 Night      31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.45%
-
-```
-**I'm Most Productive on Sunday** 📅 
-
-```text
-Monday       57 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.19% 
-Tuesday      22 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
-Wednesday    51 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.49% 
-Thursday     22 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
-Friday       32 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
-Saturday     80 commits     █████░░░░░░░░░░░░░░░░░░░░   22.73% 
-Sunday       88 commits     ██████░░░░░░░░░░░░░░░░░░░   25.0%
-
-```
-
-
-**I Mostly Code in Python 💻** 
-
-```text
-Python                   13 repos            ████████░░░░░░░░░░░░░░░░░   32.5% 
-Java                     9 repos             █████░░░░░░░░░░░░░░░░░░░░   22.5% 
-Jupyter Notebook         9 repos             █████░░░░░░░░░░░░░░░░░░░░   22.5% 
-JavaScript               6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.0% 
-C++                      1 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.5%
-
-```
-
-
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress** { ██▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 9.32 % as on ⏰ 3-Feb-2022
+⏳ **Year Progress** { ██▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 9.60 % as on ⏰ 4-Feb-2022
 
 ---
 
 ### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 23px> My Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [SOLID Principles in Java](https://apoorvtyagi.tech/solid-principles-in-java)
-- [Introduction to Asynchronous Processing and Message Queues](https://apoorvtyagi.tech/introduction-to-asynchronous-processing-and-message-queues)
-- [Building Microservices using Spring Boot + HarperDB and Deploying it on AWS](https://apoorvtyagi.tech/building-microservices-using-spring-boot-harperdb-and-deploying-it-on-aws)
-- [Javascript Clean Code Tips &amp; Good Practices](https://apoorvtyagi.tech/javascript-clean-code-tips-and-good-practices)
-- [NanoID - A URL Friendly Unique Identifier](https://apoorvtyagi.tech/nanoid-url-friendly-unique-id)
+- [Debunking YOUR Basic Math Concepts](https://apoorvtyagi.tech/mythbusting-mathematics-can-you-solve-this)
+- [JavaScript -Better way to check for "Nullish" Value Only!](https://apoorvtyagi.tech/nullish-coalescing-operator-vs-logical-or-javascript)
+- [Welcome to the world of "NFTs"](https://apoorvtyagi.tech/welcome-to-the-world-of-nft)
+- [What is Blockchain Technology? Learn by creating one](https://apoorvtyagi.tech/creating-blockchain-python)
+- [Five++ cool Python snippets that will blow your mind🤯](https://apoorvtyagi.tech/cool-python-snippets-that-will-blow-your-mind)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [... view more](https://apoorvtyagi.tech/)
@@ -97,7 +62,7 @@ C++                      1 repos             ░░░░░░░░░░░�
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“Where is the ‘any’ key?”— Homer Simpson, in response to the message, “Press any key”   </i>
+<i>❝IMDb is one of the oldest websites on the internet, and began on Usenet in 1990 as a list of “actresses with beautiful eyes.”❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
