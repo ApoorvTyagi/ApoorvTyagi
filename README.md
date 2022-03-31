@@ -39,45 +39,10 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ApoorvTyagi&theme=dark)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    54 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.71% 
-🌆 Daytime    109 commits    ███████░░░░░░░░░░░░░░░░░░   29.7% 
-🌃 Evening    173 commits    ███████████░░░░░░░░░░░░░░   47.14% 
-🌙 Night      31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.45%
-
-```
-**I'm Most Productive on Sunday** 📅 
-
-```text
-Monday       57 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.19% 
-Tuesday      22 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
-Wednesday    49 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.92% 
-Thursday     22 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
-Friday       32 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
-Saturday     82 commits     █████░░░░░░░░░░░░░░░░░░░░   23.3% 
-Sunday       88 commits     ██████░░░░░░░░░░░░░░░░░░░   25.0%
-
-```
-
-
-**I Mostly Code in Python 💻** 
-
-```text
-Python                   13 repos            ████████░░░░░░░░░░░░░░░░░   31.71% 
-Java                     9 repos             █████░░░░░░░░░░░░░░░░░░░░   21.95% 
-Jupyter Notebook         9 repos             █████░░░░░░░░░░░░░░░░░░░░   21.95% 
-JavaScript               6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.63% 
-C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.88%
-
-```
-
-
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress** { ███████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 24.12 % as on ⏰ 29-Mar-2022
+⏳ **Year Progress** { ███████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 24.39 % as on ⏰ 30-Mar-2022
 
 ---
 
@@ -97,7 +62,7 @@ C++                      2 repos             █░░░░░░░░░░�
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>There is a video game, called “Lose/Lose” that deletes a random file on your computer every time you kill an enemy.</i>
+<i>❝IMDb is one of the oldest websites on the internet, and began on Usenet in 1990 as a list of “actresses with beautiful eyes.”❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
