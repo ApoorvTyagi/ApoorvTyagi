@@ -14,7 +14,7 @@
 - 📝 I regulary write technical articles for [hashnode](https://apoorvtyagi.tech/) and [dev.to](https://dev.to/apoorvtyagi)
 - 💻 I use daily: **.js**, **.java**, **.py**,  **.sql**
 - 📖 I am currently reading **India After Gandhi** by Ramachandra Guha
-- 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals), Silicon Valley & startups
+- 💬 Talk to me about cricket, python (both of these are not any kind of insect or animal), Silicon Valley & startups
 - 👯 We can connect to play some games of Chess ♟
 - ⚡ Fun fact: Je connais un peu le français
 - 🧑‍💻 Tech I work on :
@@ -43,7 +43,7 @@
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress** { █████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 30.22 % as on ⏰ 20-Apr-2025
+⏳ **Year Progress** { █████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 30.43 % as on ⏰ 21-Apr-2025
 
 ---
 
@@ -63,7 +63,7 @@
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>HP, Microsoft and Apple have one very interesting thing in common – they were all started in a garage.</i>
+<i>❝IMDb is one of the oldest websites on the internet, and began on Usenet in 1990 as a list of “actresses with beautiful eyes.”❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
