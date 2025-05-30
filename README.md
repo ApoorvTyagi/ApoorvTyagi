@@ -63,7 +63,7 @@
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“Software is a gas; it expands to fill its container.”— Nathan Myhrvold  </i>
+• <i>“Simplicity, carried to the extreme, becomes elegance.”— Jon Franklin   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
