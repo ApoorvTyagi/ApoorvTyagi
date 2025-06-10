@@ -63,7 +63,7 @@
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“As a rule, software systems do not work well until they have been used, and have failed repeatedly, in real applications.”— Dave Parnas   </i>
+• <i>CAPTCHA is an acronym for “Completely Automated Public Turing test to tell Computers and Humans Apart”</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
