@@ -9,12 +9,12 @@
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 🏦 I'm a Backend Engineering Lead working for a Health Tech startup in India 
+- 🏦 I'm a Senior Backend Engineering Lead working for a Health Tech startup in India 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📝 I regulary write technical articles for [hashnode](https://apoorvtyagi.tech/) and [dev.to](https://dev.to/apoorvtyagi)
 - 💻 I use daily: **.js**, **.java**, **.py**,  **.sql**
 - 📖 I am currently reading **India After Gandhi** by Ramachandra Guha
-- 💬 Talk to me about cricket, python (both of these are not any kind of insect or animal), Silicon Valley & startups
+- 💬 Talk to me about cricket, python (neither of these is any insect or animal), Silicon Valley & startups
 - 👯 We can connect to play some games of Chess ♟
 - ⚡ Fun fact: Je connais un peu le français
 - 🧑‍💻 Tech I work on :
@@ -43,7 +43,7 @@
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress** { ████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 40.56 % as on ⏰ 28-May-2025
+⏳ **Year Progress** { █████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 44.86 % as on ⏰ 12-Jun-2025
 
 ---
 
@@ -63,7 +63,7 @@
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>Approximately 70% of virus writers are said to work under contract for organized crime syndicates.</i>
+<i>❝IMDb is one of the oldest websites on the internet, and began on Usenet in 1990 as a list of “actresses with beautiful eyes.”❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
