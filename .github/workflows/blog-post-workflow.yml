@@ -17,4 +17,4 @@ jobs:
           max_post_count: "5"
           retry_count: 3
           retry_wait_time: 1
-          feed_list: "https://apoorvtyagi.hashnode.dev/rss.xml"
+          feed_list: "https://dev.to/feed/apoorvtyagi"
