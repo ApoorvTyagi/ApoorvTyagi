@@ -2,15 +2,19 @@ name: Latest blog post workflow
 on:
   workflow_dispatch:
   schedule:
-    # Runs every Sunday at 00:00 AM UTC
+    # Every Sunday at 00:00 AM UTC
     - cron: '0 0 * * 0'
+permissions:
+  contents: write
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+    name: Update this repo's README with the latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           max_post_count: "5"
-          feed_list: "https://apoorvtyagi.tech/rss.xml"
+          retry_count: 3
+          retry_wait_time: 1
+          feed_list: "https://apoorvtyagi.hashnode.dev/rss.xml"
