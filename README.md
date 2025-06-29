@@ -1,21 +1,20 @@
- 👨‍💻 فراج | فراج مطور
+# 👨‍💻 Farag | فراج مطور
 
-IMG. 
+<img align="center" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="coding gif" />
 
-مرحباً بك في عالمي!  
-  أنا    **فراج عبد الله.**، مطور واجهات ومواقع باستخدام HTML وCSS وJavaScript.  
-  مؤسس كورس    **فابريكا**   ومؤلف كتاب PDF لتعليم البرمجة للمبتدئين.   
-هدفي هو تبسيط البرمجة لكل من يريد أن يبدأ، بطريقة ممتعة وواضحة.
+مرحبًا بك في عالمي!  
+أنا  **فراج عبدالله**، مطور واجهات ومواقع باستخدام HTML وCSS وJavaScript.  
+مؤسس كورس  **فابريكا**، ومؤلف كتاب PDF لتعليم البرمجة للمبتدئين.  
+🎯 هدفي هو تبسيط البرمجة لكل من يريد أن يبدأ، بطريقة سهلة وممتعة.
 
 ---
 
-##   💡 المهارات التي أستخدمها: 
+##  💡 المهارات التي أستخدمها:
 
-ص. 
- <IMG.src="https://www.vectorlogo.zone/logos/html5/html5-icon.svg" العرض ="40" /> 
- <IMG.src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" العرض ="40" /> 
- <IMG.src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" العرض ="40" /> 
- <IMG.src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" العرض ="40" /> 
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/html5/html5-icon.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="40" />
   <img src="https://www.vectorlogo.zone/logos/bootstrap/bootstrap-icon.svg" width="40" />
   <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40" />
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" />
@@ -23,27 +22,20 @@ IMG.
 
 ---
 
-##  🧩 لغاتي وأدواتي:
+## 🧠 مشاريعي:
 
-<img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="300" />
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-
----
-
-## 📂 مشاريعي:
-
--  📘 كتاب البرمجة للمبتدئين – PDF   
--  💻 موقع فابريكا – لتعليم البرمجة   
--  📱 تطبيق القرآن الكريم – نسخة تجريبية   
--  🛠️ معرض أعمال خاص بي
+- 📘 **كتاب البرمجة للمبتدئين** – PDF
+- 💻 **موقع فابريكا**  – لتعليم البرمجة من الصفر
+- 📱 **تطبيق القرآن الكريم** (نسخة تجريبية)
+-  🛠️ معرض لأعمالي وتطبيقاتي
 
 ---
 
-##  📞 تواصل معي:
+##  📬 تواصل معي:
 
 <p align="center">
-  <أ. href="https://facebook.com/farajabdallah" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" width="30" />
+  <a href="https://facebook.com/farajabdallah" target="_blank">
+    <IMG. src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" width="30" />
   </a>&nbsp;
   <a href="https://wa.me/201091838789" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" width="30" />
@@ -55,4 +47,8 @@ IMG.
 
 ---
 
->  🚀 ابدأ رحلتك البرمجية الآن — أنا هنا لدعمك خطوة بخطوة!
+<img src="https://readme-jokes.vercel.app/api" alt="Joke" />
+
+---
+
+> 🚀 **جاهز لمساعدتك في أول خطواتك البرمجية — شاركني رحلتك!**
