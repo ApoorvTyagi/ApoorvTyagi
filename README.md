@@ -1,36 +1,20 @@
-روطم,vgaراف.
- <أ.href="https://facebook.com/farajabdallah" target="_blank" rel="لا إحالة"> "" ("!"!!.."......."....... "... "... "...".".".... "...".... ""... ""."."... "... "... "... " "..."""
- <أ.href="https://wa.me/201091838789" target="_blank" rel="لا إحالة"> "" ("!"!!.."......."....... "... "... "...".".".... "...".... ""... ""."."... "... "... "... " "..."""
- <أ.href="mailto:farajbdallh891@gmail.com" target="_blank" rel="noopener noreferrer"><IMG.src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="30" alt="البريد الإلكتروني"/></أ.> 
-</ص.>
+#  ✨ مرحبًا، أنا فراج عبدالله
+
+مطور مواقع وتطبيقات بلغة HTML وCSS وJavaScript.  
+صاحب كورس  **فابريكا**  ومؤلف كتاب برمجة للمبتدئين.  
+أهدف إلى تبسيط البرمجة ونشر المعرفة بأسلوب سهل وواضح.
 
 ---
 
-<IMG.محاذاة="يمين" alt="ترميز" العرض="300"src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+#  👨‍💻 مرحبا بكم - أنا  **فرج عبد الله.**
 
-##  💡 من أنا؟
--   👨‍💻 مطور مواقع وتطبيقات بلغة HTML, CSS, JavaScript    
-- 🧠 مؤسس كورس **فابريكا** لتعليم البرمجة من الصفر  
-- 📘 مؤلف كتاب برمجة للمبتدئين بصيغة PDF  
-- 🎯 هدفي تبسيط البرمجة لأي شخص مهما كان مستواه  
+مطور الواجهة الأمامية عاطفي المهرة في.  **HTML.**, **CSS.**، و.  **جافا سكريبت**.  
+خالق. **دورة فابريسا.**  ومؤلف كتاب برمجة صديق للمبتدئين باللغة العربية.  
+أساعد المبتدئين على تعلم البرمجة وبدء رحلتهم في عالم التكنولوجيا.
 
 ---
 
-## 🔧 المهارات:
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/html5/html5-icon.svg" width="50" alt="HTML5" />
-  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="50" alt="CSS3" />
-  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="50" alt="JavaScript" />
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="50" alt="React" />
-  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="50" alt="GitHub" />
-</p>
-
----
-
-## 📈 إحصائيات GitHub:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Balloon453&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Balloon453&layout=compact&theme=radical)
-
----
-
-> 💬 تواصل معي عبر واتساب أو الإيميل أو فيسبوك، واستعد تبدأ رحلتك في البرمجة 🚀
+ 📱 تواصل معي:   
+-  واتساب:  [01091838789](https://wa.me/201091838789)  
+- فيسبوك: [facebook.com/farajabdallah](https://facebook.com/farajabdallah)  
+-  📧 إيميل: farajbdallh891@gmail.com
