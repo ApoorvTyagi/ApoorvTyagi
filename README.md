@@ -1,17 +1,15 @@
-# 👋 Hi there! I'm Faraj Abdallah
-
-<p align="center">
-  <a href="https://facebook.com/farajabdallah" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height="30" alt="Facebook" /></a>&nbsp;
-  <a href="https://wa.me/201091838789" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" height="30" alt="WhatsApp" /></a>&nbsp;
-  <a href="mailto:farajbdallh891@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="30" alt="Email" /></a>
-</p>
+روطم,vgaراف.
+ <أ.href="https://facebook.com/farajabdallah" target="_blank" rel="لا إحالة"> "" ("!"!!.."......."....... "... "... "...".".".... "...".... ""... ""."."... "... "... "... " "..."""
+ <أ.href="https://wa.me/201091838789" target="_blank" rel="لا إحالة"> "" ("!"!!.."......."....... "... "... "...".".".... "...".... ""... ""."."... "... "... "... " "..."""
+ <أ.href="mailto:farajbdallh891@gmail.com" target="_blank" rel="noopener noreferrer"><IMG.src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="30" alt="البريد الإلكتروني"/></أ.> 
+</ص.>
 
 ---
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<IMG.محاذاة="يمين" alt="ترميز" العرض="300"src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-## 💡 من أنا؟
-- 👨‍💻 مطور مواقع وتطبيقات بلغة HTML, CSS, JavaScript  
+##  💡 من أنا؟
+-   👨‍💻 مطور مواقع وتطبيقات بلغة HTML, CSS, JavaScript    
 - 🧠 مؤسس كورس **فابريكا** لتعليم البرمجة من الصفر  
 - 📘 مؤلف كتاب برمجة للمبتدئين بصيغة PDF  
 - 🎯 هدفي تبسيط البرمجة لأي شخص مهما كان مستواه  
