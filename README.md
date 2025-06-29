@@ -1,21 +1,21 @@
-# 👨‍💻 Faraj | فراج مطور
+ 👨‍💻 فراج | فراج مطور
 
-<img align="center" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" />
+IMG. 
 
 مرحباً بك في عالمي!  
-أنا  **فراج عبدالله**، مطور واجهات ومواقع باستخدام HTML وCSS وJavaScript.  
-مؤسس كورس  **فابريكا**  ومؤلف كتاب PDF لتعليم البرمجة للمبتدئين.  
+  أنا    **فراج عبد الله.**، مطور واجهات ومواقع باستخدام HTML وCSS وJavaScript.  
+  مؤسس كورس    **فابريكا**   ومؤلف كتاب PDF لتعليم البرمجة للمبتدئين.   
 هدفي هو تبسيط البرمجة لكل من يريد أن يبدأ، بطريقة ممتعة وواضحة.
 
 ---
 
-##  💡 المهارات التي أستخدمها:
+##   💡 المهارات التي أستخدمها: 
 
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/html5/html5-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="40" />
+ص. 
+ <IMG.src="https://www.vectorlogo.zone/logos/html5/html5-icon.svg" العرض ="40" /> 
+ <IMG.src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" العرض ="40" /> 
+ <IMG.src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" العرض ="40" /> 
+ <IMG.src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" العرض ="40" /> 
   <img src="https://www.vectorlogo.zone/logos/bootstrap/bootstrap-icon.svg" width="40" />
   <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40" />
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" />
