@@ -1,44 +1,38 @@
-# Welcome to Fabrica Course
+# 👋 Hi there! I'm Faraj Abdallah
 
-Hi there! 👋 I'm **Faraj**, the developer behind this educational platform and the author of the beginner-friendly programming book.
-
----
-
-## 📚 About This Project
-
-Fabrica Course is a comprehensive website and app for learning programming, featuring:
-- Interactive courses
-- Downloadable PDF book
-- Easy-to-use interface with modern design
-- Payment integration (Vodafone Cash, Orange Cash, We Cash, PayPal)
+<p align="center">
+  <a href="https://facebook.com/farajabdallah" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height="30" alt="Facebook" /></a>&nbsp;
+  <a href="https://wa.me/201091838789" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" height="30" alt="WhatsApp" /></a>&nbsp;
+  <a href="mailto:farajbdallh891@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="30" alt="Email" /></a>
+</p>
 
 ---
 
-## 🛠️ Technologies Used
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- HTML5 & CSS3 (with custom styling)
-- JavaScript for interactivity
-- Responsive design for mobile and desktop
-- GitHub Pages for hosting
-
----
-
-## 📞 Contact Me
-
-Feel free to reach out!
-
-- Phone: 01091838789  
-- WhatsApp: [Chat with me](https://wa.me/201091838789)  
-- Email: farajbdallh891@gmail.com  
-- Facebook: [Faraj Abdallah](https://facebook.com/farajabdallah)
+## 💡 من أنا؟
+- 👨‍💻 مطور مواقع وتطبيقات بلغة HTML, CSS, JavaScript  
+- 🧠 مؤسس كورس **فابريكا** لتعليم البرمجة من الصفر  
+- 📘 مؤلف كتاب برمجة للمبتدئين بصيغة PDF  
+- 🎯 هدفي تبسيط البرمجة لأي شخص مهما كان مستواه  
 
 ---
 
-## ⭐ Support & Contributions
-
-If you find this project helpful, please give it a ⭐ on GitHub!  
-Contributions are welcome—feel free to open issues or pull requests.
+## 🔧 المهارات:
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/html5/html5-icon.svg" width="50" alt="HTML5" />
+  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="50" alt="CSS3" />
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="50" alt="JavaScript" />
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="50" alt="React" />
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="50" alt="GitHub" />
+</p>
 
 ---
 
-© 2025 Faraj - All rights reserved.
+## 📈 إحصائيات GitHub:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Balloon453&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Balloon453&layout=compact&theme=radical)
+
+---
+
+> 💬 تواصل معي عبر واتساب أو الإيميل أو فيسبوك، واستعد تبدأ رحلتك في البرمجة 🚀
