@@ -43,7 +43,7 @@
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress:** { ██████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 49.33% as on ⏰ 30-Jun-2025
+⏳ **Year Progress:** { ██████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 49.61% as on ⏰ 1-Jul-2025
 
 ---
 
@@ -63,7 +63,7 @@
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>Whether you use Mozilla, Chrome Explore, please know that Mosaic was the first browser in  Just when I was born.</i>
+<i>❝IMDb is one of the oldest websites on the internet, and began on Usenet in 1990 as a list of “actresses with beautiful eyes.”❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
