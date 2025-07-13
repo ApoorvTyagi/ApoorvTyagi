@@ -43,7 +43,7 @@
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress:** { ███████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 52.62% as on ⏰ 12-Jul-2025
+⏳ **Year Progress:** { ███████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 52.90% as on ⏰ 13-Jul-2025
 
 ---
 
@@ -63,7 +63,7 @@
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>If there was a computer as powerful as the human brain, it would be able to do 38 thousand trillion operations per second and hold more than 3580 terabytes of memory.</i>
+<i>❝IMDb is one of the oldest websites on the internet, and began on Usenet in 1990 as a list of “actresses with beautiful eyes.”❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
