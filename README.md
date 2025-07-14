@@ -43,17 +43,17 @@
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress:** { ███████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 52.90% as on ⏰ 13-Jul-2025
+⏳ **Year Progress:** { ███████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 53.17% as on ⏰ 14-Jul-2025
 
 ---
 
 ### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> My Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [Going Vernacular: Engineering Our Way to Process Multilingual Names](https://dev.to/apoorvtyagi/going-vernacular-engineering-our-way-to-process-multilingual-names-5mh)
-- [How to Keep Your Package Dependencies Up to Date on Azure DevOps](https://dev.to/apoorvtyagi/how-to-keep-your-package-dependencies-up-to-date-on-azure-devops-4d0p)
-- [Finding a Needle in Haystack: Fixing Mysterious Bad Gateway](https://dev.to/apoorvtyagi/finding-a-needle-in-haystack-fixing-mysterious-bad-gateway-1571)
-- [Building Resilient Systems: Retry Pattern in Microservices](https://dev.to/apoorvtyagi/building-resilient-systems-retry-pattern-in-microservices-1ngj)
-- [How to Choose The Right Database for Your Application](https://dev.to/apoorvtyagi/how-to-choose-the-right-database-for-your-application-1dk3)
+- [Debunking YOUR Basic Math Concepts](https://apoorvtyagi.tech/mythbusting-mathematics-can-you-solve-this)
+- [Going Vernacular: Engineering Our Way to Process Multilingual Names](https://apoorvtyagi.tech/going-vernacular-engineering-our-way-to-process-multilingual-names)
+- [Building Resilient Systems: Retry Pattern in Microservices](https://apoorvtyagi.tech/building-resilient-systems-retry-pattern-in-microservices)
+- [How to Keep Your Package Dependencies Up to Date on Azure DevOps](https://apoorvtyagi.tech/how-to-keep-your-package-dependencies-up-to-date-on-azure-devops)
+- [Finding a Needle in Haystack: Fixing Mysterious Bad Gateway](https://apoorvtyagi.tech/finding-a-needle-in-haystack-fixing-mysterious-bad-gateway)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [... view more](https://apoorvtyagi.tech/)
@@ -63,7 +63,7 @@
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“How rare it is that maintaining someone else’s code is akin to entering a beautifully designed building, which you admire as you walk around and plan how to add a wing or do some redecorating. More often, maintaining someone else’s code is like being thrown headlong into a big pile of slimy, smelly garbage.”— Bill Venners   </i>
+<i>❝IMDb is one of the oldest websites on the internet, and began on Usenet in 1990 as a list of “actresses with beautiful eyes.”❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
