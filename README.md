@@ -43,7 +43,7 @@
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress:** { ███████████████████████████▁▁▁ } 90.15% as on ⏰ 26-Nov-2025
+⏳ **Year Progress:** { ███████████████████████████▁▁▁ } 90.43% as on ⏰ 27-Nov-2025
 
 ---
 
@@ -63,7 +63,7 @@
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>A computer worm was present before that could access your Windows XP OS, could download a patch from Microsoft to exist the vulnerability as used it to infect the system and after delete itself.</i>
+<i>❝IMDb is one of the oldest websites on the internet, and began on Usenet in 1990 as a list of “actresses with beautiful eyes.”❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
