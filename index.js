@@ -28,9 +28,9 @@ const readme = `\
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 🏦 I'm a Senior Software Engineer – Backend Systems working for a Health Tech startup in India 
+- 🏦 I'm a Senior Software Engineer – Backend Systems working for a leading Japan based fintech company 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 📝 I regulary write technical articles for [hashnode](https://apoorvtyagi.tech/) and [dev.to](https://dev.to/apoorvtyagi)
+- 📝 I write technical articles at [apoorvtyagi.tech](https://apoorvtyagi.tech/)
 - 💻 I use daily: **.js**, **.java**, **.py**,  **.sql**
 - 📖 I am currently reading **India After Gandhi** by Ramachandra Guha
 - 💬 Talk to me about cricket, python (neither of these is any insect or animal), Silicon Valley & startups
@@ -93,6 +93,7 @@ const readme = `\
 <img src="https://readme-jokes.vercel.app/api" alt="Error fetching humour, Refresh again to view the Card" width = '11000' />
 `
 console.log(readme)
+
 
 
 
