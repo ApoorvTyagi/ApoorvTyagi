@@ -50,11 +50,11 @@
 
 ### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> My Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Kafka Consumer Container Restarts in Kubernetes: A Production Case Study](https://dev.to/apoorvtyagi/kafka-consumer-container-restarts-in-kubernetes-a-production-case-study-1iid)
 - [How we solved cache invalidation in Kubernetes with a headless service](https://dev.to/apoorvtyagi/how-we-solved-cache-invalidation-in-kubernetes-with-a-headless-service-34dg)
 - [Going Vernacular: Engineering Our Way to Process Multilingual Names](https://dev.to/apoorvtyagi/going-vernacular-engineering-our-way-to-process-multilingual-names-5mh)
 - [How to Keep Your Package Dependencies Up to Date on Azure DevOps](https://dev.to/apoorvtyagi/how-to-keep-your-package-dependencies-up-to-date-on-azure-devops-4d0p)
 - [Finding a Needle in Haystack: Fixing Mysterious Bad Gateway](https://dev.to/apoorvtyagi/finding-a-needle-in-haystack-fixing-mysterious-bad-gateway-1571)
-- [Building Resilient Systems: Retry Pattern in Microservices](https://dev.to/apoorvtyagi/building-resilient-systems-retry-pattern-in-microservices-1ngj)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [... view more](https://apoorvtyagi.tech/)
