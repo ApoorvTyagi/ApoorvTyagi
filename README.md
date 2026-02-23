@@ -29,7 +29,43 @@
 ![Apoorv's github streak](https://streak-stats.demolab.com?user=apoorvtyagi&theme=dark&mode=weekly)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-97%20hrs%2051%20mins-blue?style=flat)
 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                235 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+🌆 Daytime                425 commits         ██████░░░░░░░░░░░░░░░░░░░   25.62 % 
+🌃 Evening                860 commits         █████████████░░░░░░░░░░░░   51.84 % 
+🌙 Night                  139 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   219 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
+Tuesday                  186 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+Wednesday                91 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+Thursday                 101 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+Friday                   200 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
+Saturday                 375 commits         ██████░░░░░░░░░░░░░░░░░░░   22.60 % 
+Sunday                   487 commits         ███████░░░░░░░░░░░░░░░░░░   29.36 % 
+```
+
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               12 repos            ██████░░░░░░░░░░░░░░░░░░░   25.53 % 
+Python                   12 repos            ██████░░░░░░░░░░░░░░░░░░░   25.53 % 
+Java                     11 repos            ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
+Jupyter Notebook         9 repos             █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
+C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+```
+
+
+
+
+ Last Updated on 23/02/2026 14:26:40 UTC
 <!--END_SECTION:waka-->
 
 ⏳ **Year Progress:** { ████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 14.68% as on ⏰ 23-Feb-2026
