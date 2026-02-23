@@ -1,4 +1,4 @@
-name: Wakatime Stats
+name: 2 Wakatime Stats
 
 on:
   workflow_dispatch:

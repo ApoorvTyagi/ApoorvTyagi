@@ -1,4 +1,4 @@
-name: Latest blog post workflow
+name: 4 Latest blog post workflow
 on:
   workflow_dispatch:
   schedule:
