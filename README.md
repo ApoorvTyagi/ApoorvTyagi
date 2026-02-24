@@ -29,30 +29,10 @@
 ![Apoorv's github streak](https://streak-stats.demolab.com?user=apoorvtyagi&theme=dark&mode=weekly)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-97%20hrs%2051%20mins-blue?style=flat)
 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                235 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
-🌆 Daytime                425 commits         ██████░░░░░░░░░░░░░░░░░░░   25.62 % 
-🌃 Evening                860 commits         █████████████░░░░░░░░░░░░   51.84 % 
-🌙 Night                  139 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   219 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
-Tuesday                  186 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
-Wednesday                91 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
-Thursday                 101 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
-Friday                   200 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
-Saturday                 375 commits         ██████░░░░░░░░░░░░░░░░░░░   22.60 % 
-Sunday                   487 commits         ███████░░░░░░░░░░░░░░░░░░   29.36 % 
-```
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress:** { ████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 14.68% as on ⏰ 23-Feb-2026
+⏳ **Year Progress:** { ████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 14.81% as on ⏰ 24-Feb-2026
 
 ---
 
@@ -63,6 +43,7 @@ Sunday                   487 commits         ███████░░░░�
 - [Going Vernacular: Engineering Our Way to Process Multilingual Names](https://dev.to/apoorvtyagi/going-vernacular-engineering-our-way-to-process-multilingual-names-5mh)
 - [How to Keep Your Package Dependencies Up to Date on Azure DevOps](https://dev.to/apoorvtyagi/how-to-keep-your-package-dependencies-up-to-date-on-azure-devops-4d0p)
 - [Finding a Needle in Haystack: Fixing Mysterious Bad Gateway](https://dev.to/apoorvtyagi/finding-a-needle-in-haystack-fixing-mysterious-bad-gateway-1571)
+- [Building Resilient Systems: Retry Pattern in Microservices](https://dev.to/apoorvtyagi/building-resilient-systems-retry-pattern-in-microservices-1ngj)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [... view more](https://apoorvtyagi.tech/)
@@ -72,7 +53,7 @@ Sunday                   487 commits         ███████░░░░�
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“In 2031, lawyers will be commonly a part of most development teams.”— Grady Booch   </i>
+<i>❝IMDb is one of the oldest websites on the internet, and began on Usenet in 1990 as a list of “actresses with beautiful eyes.”❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
