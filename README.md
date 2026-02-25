@@ -29,33 +29,10 @@
 ![Apoorv's github streak](https://streak-stats.demolab.com?user=apoorvtyagi&theme=dark&mode=weekly)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-94%20hrs%2014%20mins-blue?style=flat)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                205 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
-🌆 Daytime                425 commits         ███████░░░░░░░░░░░░░░░░░░   28.13 % 
-🌃 Evening                752 commits         ████████████░░░░░░░░░░░░░   49.77 % 
-🌙 Night                  129 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   191 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
-Tuesday                  181 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
-Wednesday                91 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
-Thursday                 101 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
-Friday                   200 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
-Saturday                 285 commits         █████░░░░░░░░░░░░░░░░░░░░   18.86 % 
-Sunday                   462 commits         ████████░░░░░░░░░░░░░░░░░   30.58 % 
-```
-
-
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress:** { ████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 14.81% as on ⏰ 24-Feb-2026
+⏳ **Year Progress:** { ████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 15.08% as on ⏰ 25-Feb-2026
 
 ---
 
@@ -76,7 +53,7 @@ Sunday                   462 commits         ████████░░░�
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“Yes, we have a dress code. You have to dress.”— Scott McNealy, co-founder of Sun Microsystems   </i>
+<i>❝IMDb is one of the oldest websites on the internet, and began on Usenet in 1990 as a list of “actresses with beautiful eyes.”❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
