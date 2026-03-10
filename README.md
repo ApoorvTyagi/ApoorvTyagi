@@ -29,33 +29,10 @@
 ![Apoorv's github streak](https://streak-stats.demolab.com?user=apoorvtyagi&theme=dark&mode=weekly)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-121%20hrs%2021%20mins-blue?style=flat)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                205 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
-🌆 Daytime                425 commits         ███████░░░░░░░░░░░░░░░░░░   28.09 % 
-🌃 Evening                754 commits         ████████████░░░░░░░░░░░░░   49.83 % 
-🌙 Night                  129 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   191 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
-Tuesday                  181 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
-Wednesday                91 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
-Thursday                 101 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
-Friday                   200 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
-Saturday                 287 commits         █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
-Sunday                   462 commits         ████████░░░░░░░░░░░░░░░░░   30.54 % 
-```
-
-
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress:** { █████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 18.37% as on ⏰ 9-Mar-2026
+⏳ **Year Progress:** { █████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 18.64% as on ⏰ 10-Mar-2026
 
 ---
 
@@ -76,7 +53,7 @@ Sunday                   462 commits         ████████░░░�
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“It has been discovered that C++ provides a remarkable facility for concealing the trivial details of a program — such as where its bugs are.”— David Keppel   </i>
+<i>❝IMDb is one of the oldest websites on the internet, and began on Usenet in 1990 as a list of “actresses with beautiful eyes.”❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
