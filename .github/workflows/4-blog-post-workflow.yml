@@ -1,8 +1,6 @@
 name: 4 Latest blog post workflow
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '0 0 * * 0' # Every Sunday at 12:00 AM UTC (5:30 AM IST)
 permissions:
   contents: write
 jobs:
