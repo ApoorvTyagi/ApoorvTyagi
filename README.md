@@ -61,17 +61,12 @@ Sunday                   462 commits         ████████░░░�
 
 ### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> My Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [Recently, I tried to inspect our Dockerfile to understand our container setup.
-
-But there wasn’t one.
-
-Instead, we were using Jib - a tool that builds optimized Java container images without Dockerfiles or even Docker.
-
-Here’s a complete deep dive 👇](https://dev.to/apoorvtyagi/recently-i-tried-to-inspect-our-dockerfile-to-understand-our-container-setup-but-there-wasnt-1fi0)
-- [What is Jib? A Complete Guide to Java Containerization Without Dockerfiles](https://dev.to/apoorvtyagi/what-is-jib-a-complete-guide-to-java-containerization-without-dockerfiles-4dmf)
-- [Kafka Consumer Container Restarts in Kubernetes: A Production Case Study](https://dev.to/apoorvtyagi/kafka-consumer-container-restarts-in-kubernetes-a-production-case-study-1iid)
-- [How we solved cache invalidation in Kubernetes with a headless service](https://dev.to/apoorvtyagi/how-we-solved-cache-invalidation-in-kubernetes-with-a-headless-service-34dg)
-- [Going Vernacular: Engineering Our Way to Process Multilingual Names](https://dev.to/apoorvtyagi/going-vernacular-engineering-our-way-to-process-multilingual-names-5mh)
+- [What is Jib? A Complete Guide to Java Containerization Without Dockerfiles](https://apoorvtyagi.tech/what-is-jib-a-complete-guide-to-java-containerization-without-dockerfiles)
+- [Kafka Consumer Container Restarts in Kubernetes: A Production Case Study](https://apoorvtyagi.tech/kafka-consumer-container-restarts-in-kubernetes-a-production-case-study)
+- [How we solved cache invalidation in Kubernetes with a headless service](https://apoorvtyagi.tech/how-we-solved-cache-invalidation-in-kubernetes-with-a-headless-service)
+- [Going Vernacular: Engineering Our Way to Process Multilingual Names](https://apoorvtyagi.tech/going-vernacular-engineering-our-way-to-process-multilingual-names)
+- [Building Resilient Systems: Retry Pattern in Microservices](https://apoorvtyagi.tech/building-resilient-systems-retry-pattern-in-microservices)
+- [Finding a Needle in Haystack: Fixing Mysterious Bad Gateway](https://apoorvtyagi.tech/finding-a-needle-in-haystack-fixing-mysterious-bad-gateway)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [... view more](https://apoorvtyagi.tech/)
