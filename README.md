@@ -29,33 +29,10 @@
 ![Apoorv's github streak](https://streak-stats.demolab.com?user=apoorvtyagi&theme=dark&mode=weekly)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-130%20hrs%2012%20mins-blue?style=flat)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                205 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
-🌆 Daytime                425 commits         ███████░░░░░░░░░░░░░░░░░░   27.98 % 
-🌃 Evening                760 commits         █████████████░░░░░░░░░░░░   50.03 % 
-🌙 Night                  129 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   191 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
-Tuesday                  187 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
-Wednesday                91 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
-Thursday                 101 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
-Friday                   200 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
-Saturday                 287 commits         █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
-Sunday                   462 commits         ████████░░░░░░░░░░░░░░░░░   30.41 % 
-```
-
-
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress:** { █████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 19.74% as on ⏰ 14-Mar-2026
+⏳ **Year Progress:** { ██████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 20.02% as on ⏰ 15-Mar-2026
 
 ---
 
@@ -76,7 +53,7 @@ Sunday                   462 commits         ████████░░░�
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>Only about 10% of the world’s currency is physical money, the rest only exists on computers.</i>
+<i>❝IMDb is one of the oldest websites on the internet, and began on Usenet in 1990 as a list of “actresses with beautiful eyes.”❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
