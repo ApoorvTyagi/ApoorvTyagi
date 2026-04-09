@@ -29,33 +29,10 @@
 ![Apoorv's github streak](https://streak-stats.demolab.com?user=apoorvtyagi&theme=dark&mode=weekly)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-174%20hrs%2017%20mins-blue?style=flat)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                205 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
-🌆 Daytime                425 commits         ███████░░░░░░░░░░░░░░░░░░   27.92 % 
-🌃 Evening                760 commits         ████████████░░░░░░░░░░░░░   49.93 % 
-🌙 Night                  132 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   191 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
-Tuesday                  187 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
-Wednesday                94 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
-Thursday                 101 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
-Friday                   200 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
-Saturday                 287 commits         █████░░░░░░░░░░░░░░░░░░░░   18.86 % 
-Sunday                   462 commits         ████████░░░░░░░░░░░░░░░░░   30.35 % 
-```
-
-
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress:** { ███████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 26.59% as on ⏰ 8-Apr-2026
+⏳ **Year Progress:** { ████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 26.86% as on ⏰ 9-Apr-2026
 
 ---
 
@@ -76,7 +53,7 @@ Sunday                   462 commits         ████████░░░�
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>In May 1997, an IBM supercomputer known as Deep Blue beat then chess world champion Garry Kasparov, who had once bragged that he would never lose to a machine. After 15 years, it was discovered that the critical move made by Deep Blue was due to a bug in its software.</i>
+<i>❝IMDb is one of the oldest websites on the internet, and began on Usenet in 1990 as a list of “actresses with beautiful eyes.”❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
