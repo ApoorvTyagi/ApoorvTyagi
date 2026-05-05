@@ -37,33 +37,10 @@
 ![Apoorv's github streak](https://streak-stats.demolab.com?user=apoorvtyagi&theme=dark&mode=weekly)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-205%20hrs%2024%20mins-blue?style=flat)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                205 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
-🌆 Daytime                425 commits         ███████░░░░░░░░░░░░░░░░░░   27.85 % 
-🌃 Evening                764 commits         █████████████░░░░░░░░░░░░   50.07 % 
-🌙 Night                  132 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   191 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
-Tuesday                  187 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
-Wednesday                94 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
-Thursday                 101 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
-Friday                   200 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
-Saturday                 291 commits         █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
-Sunday                   462 commits         ████████░░░░░░░░░░░░░░░░░   30.28 % 
-```
-
-
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress:** { ██████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 33.72% as on ⏰ 4-May-2026
+⏳ **Year Progress:** { ██████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 33.99% as on ⏰ 5-May-2026
 
 ---
 
@@ -84,7 +61,7 @@ Sunday                   462 commits         ████████░░░�
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>Mircosoft included Solitaire in their operating systems “to soothe people intimidated by the operating system” and introduce users to graphic user interfaces and taught them how to use a mouse.</i>
+<i>❝IMDb is one of the oldest websites on the internet, and began on Usenet in 1990 as a list of “actresses with beautiful eyes.”❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
