@@ -37,6 +37,8 @@
 ![Apoorv's github streak](https://streak-stats.demolab.com?user=apoorvtyagi&theme=dark&mode=weekly)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-252%20hrs%2043%20mins-blue?style=flat)
+
 
 <!--END_SECTION:waka-->
 
