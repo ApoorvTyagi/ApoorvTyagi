@@ -37,59 +37,10 @@
 ![Apoorv's github streak](https://streak-stats.demolab.com?user=apoorvtyagi&theme=dark&mode=weekly)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-342%20hrs%206%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-72%20hrs%201%20min-blue?style=flat)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                205 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
-🌆 Daytime                425 commits         ███████░░░░░░░░░░░░░░░░░░   27.85 % 
-🌃 Evening                764 commits         █████████████░░░░░░░░░░░░   50.07 % 
-🌙 Night                  132 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   191 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
-Tuesday                  187 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
-Wednesday                94 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
-Thursday                 101 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
-Friday                   200 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
-Saturday                 291 commits         █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
-Sunday                   462 commits         ████████░░░░░░░░░░░░░░░░░   30.28 % 
-```
-
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 6 hrs 34 mins (74.22%)
-
-✍️ 515 lines written by AI, 256 lines written by hand (66.8% AI-written)
-
-🔤 30,216,865 Input Tokens, 262,811 Output Tokens
-
-💵 $169.52 Estimated AI Cost This Week
-
-🧠 21 AI Sessions, 70 AI Prompts
-
-GPT                      430 lines           ████████████████████░░░░░   78.32 % 
-Opus                     119 lines           █████░░░░░░░░░░░░░░░░░░░░   21.68 % 
-Vscode-Wakatime          0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 66.8% of written lines came from AI
-📄 Detailed Prompter — average 603 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 54.4% of changed lines were hand-edited
-```
-
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress:** { █████████████████▁▁▁▁▁▁▁▁▁▁▁▁▁ } 57.01% as on ⏰ 28-Jul-2026
+⏳ **Year Progress:** { █████████████████▁▁▁▁▁▁▁▁▁▁▁▁▁ } 57.28% as on ⏰ 29-Jul-2026
 
 ---
 
@@ -110,7 +61,7 @@ Vscode-Wakatime          0 lines             ░░░░░░░░░░░�
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“Yes, we have a dress code. You have to dress.”— Scott McNealy, co-founder of Sun Microsystems   </i>
+<i>❝IMDb is one of the oldest websites on the internet, and began on Usenet in 1990 as a list of “actresses with beautiful eyes.”❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
