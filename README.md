@@ -37,6 +37,55 @@
 ![Apoorv's github streak](https://streak-stats.demolab.com?user=apoorvtyagi&theme=dark&mode=weekly)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-347%20hrs%2023%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-76%20hrs%2026%20mins-blue?style=flat)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                205 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
+🌆 Daytime                425 commits         ███████░░░░░░░░░░░░░░░░░░   27.85 % 
+🌃 Evening                764 commits         █████████████░░░░░░░░░░░░   50.07 % 
+🌙 Night                  132 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   191 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
+Tuesday                  187 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+Wednesday                94 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+Thursday                 101 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
+Friday                   200 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
+Saturday                 291 commits         █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
+Sunday                   462 commits         ████████░░░░░░░░░░░░░░░░░   30.28 % 
+```
+
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 8 hrs 7 mins (75.74%)
+
+✍️ 778 lines written by AI, 256 lines written by hand (75.24% AI-written)
+
+🔤 33,788,201 Input Tokens, 344,879 Output Tokens
+
+💵 $189.16 Estimated AI Cost This Week
+
+🧠 21 AI Sessions, 85 AI Prompts
+
+GPT                      430 lines           █████████████░░░░░░░░░░░░   52.96 % 
+Opus                     382 lines           ████████████░░░░░░░░░░░░░   47.04 % 
+Vscode-Wakatime          0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 75.24% of written lines came from AI
+📄 Detailed Prompter — average 632 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 38.62% of changed lines were hand-edited
+```
+
 
 <!--END_SECTION:waka-->
 
