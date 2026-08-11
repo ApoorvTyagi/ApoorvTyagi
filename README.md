@@ -37,6 +37,54 @@
 ![Apoorv's github streak](https://streak-stats.demolab.com?user=apoorvtyagi&theme=dark&mode=weekly)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-363%20hrs%2013%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-86%20hrs%2018%20mins-blue?style=flat)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                205 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
+🌆 Daytime                425 commits         ███████░░░░░░░░░░░░░░░░░░   27.85 % 
+🌃 Evening                764 commits         █████████████░░░░░░░░░░░░   50.07 % 
+🌙 Night                  132 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   191 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
+Tuesday                  187 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+Wednesday                94 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+Thursday                 101 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
+Friday                   200 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
+Saturday                 291 commits         █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
+Sunday                   462 commits         ████████░░░░░░░░░░░░░░░░░   30.28 % 
+```
+
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 5 hrs 44 mins (78.38%)
+
+✍️ 942 lines written by AI, 29 lines written by hand (97.01% AI-written)
+
+🔤 50,862,513 Input Tokens, 258,732 Output Tokens
+
+💵 $261.75 Estimated AI Cost This Week
+
+🧠 29 AI Sessions, 69 AI Prompts
+
+GPT                      1,048 lines         █████████████████████████   100.00 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 97.01% of written lines came from AI
+📄 Detailed Prompter — average 696 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 9.11% of changed lines were hand-edited
+```
+
 
 <!--END_SECTION:waka-->
 
