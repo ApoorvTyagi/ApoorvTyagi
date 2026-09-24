@@ -37,41 +37,10 @@
 ![Apoorv's github streak](https://streak-stats.demolab.com?user=apoorvtyagi&theme=dark&mode=weekly)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-371%20hrs%2019%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-92%20hrs%2038%20mins-blue?style=flat)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                205 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
-🌆 Daytime                425 commits         ███████░░░░░░░░░░░░░░░░░░   27.78 % 
-🌃 Evening                768 commits         █████████████░░░░░░░░░░░░   50.20 % 
-🌙 Night                  132 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   191 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
-Tuesday                  190 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
-Wednesday                94 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
-Thursday                 101 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
-Friday                   200 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
-Saturday                 292 commits         █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
-Sunday                   462 commits         ████████░░░░░░░░░░░░░░░░░   30.20 % 
-```
-
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress:** { █████████████████████▁▁▁▁▁▁▁▁▁ } 72.63% as on ⏰ 23-Sep-2026
+⏳ **Year Progress:** { █████████████████████▁▁▁▁▁▁▁▁▁ } 72.90% as on ⏰ 24-Sep-2026
 
 ---
 
@@ -92,7 +61,7 @@ No AI Coding Activity Tracked This Week
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“Perl: The only language that looks the same before and after RSA encryption.”— Keith Bostic   </i>
+<i>❝IMDb is one of the oldest websites on the internet, and began on Usenet in 1990 as a list of “actresses with beautiful eyes.”❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
