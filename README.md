@@ -37,6 +37,37 @@
 ![Apoorv's github streak](https://streak-stats.demolab.com?user=apoorvtyagi&theme=dark&mode=weekly)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-371%20hrs%2019%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-92%20hrs%2038%20mins-blue?style=flat)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                205 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+🌆 Daytime                426 commits         ███████░░░░░░░░░░░░░░░░░░   27.82 % 
+🌃 Evening                768 commits         █████████████░░░░░░░░░░░░   50.16 % 
+🌙 Night                  132 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   191 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
+Tuesday                  190 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+Wednesday                95 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+Thursday                 101 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
+Friday                   200 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
+Saturday                 292 commits         █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
+Sunday                   462 commits         ████████░░░░░░░░░░░░░░░░░   30.18 % 
+```
+
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 
 <!--END_SECTION:waka-->
 
