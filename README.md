@@ -40,7 +40,7 @@
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress:** { █████████████████████████▁▁▁▁▁ } 84.70% as on ⏰ 6-Nov-2026
+⏳ **Year Progress:** { █████████████████████████▁▁▁▁▁ } 84.97% as on ⏰ 7-Nov-2026
 
 ---
 
@@ -61,7 +61,7 @@
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“There are only two things wrong with C++:  The initial concept and the implementation.”— Bertrand Meyer   </i>
+<i>❝IMDb is one of the oldest websites on the internet, and began on Usenet in 1990 as a list of “actresses with beautiful eyes.”❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
