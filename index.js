@@ -55,6 +55,10 @@ const readme = `\
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
 ![Apoorv's github streak](https://streak-stats.demolab.com?user=apoorvtyagi&theme=dark&mode=weekly)
 
+
+[![Founding Contributor #14 @ApoorvTyagi](https://img.shields.io/static/v1?label=%E2%9A%A1%20FOUNDING%20CONTRIBUTOR&message=%2314%20of%20100%20%E2%80%A2%20%40ApoorvTyagi&color=06b6d4&labelColor=07080f&style=for-the-badge)](https://discord.gg/qMu5Xn8Kaq)
+
+
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
