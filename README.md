@@ -39,11 +39,12 @@
 
 [![Founding Contributor #14 @ApoorvTyagi](https://img.shields.io/static/v1?label=%E2%9A%A1%20FOUNDING%20CONTRIBUTOR&message=%2314%20of%20100%20%E2%80%A2%20%40ApoorvTyagi&color=06b6d4&labelColor=07080f&style=for-the-badge)](https://discord.gg/qMu5Xn8Kaq)
 
+
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress:** { █████████████████████████▁▁▁▁▁ } 86.36% as on ⏰ 12-Nov-2026
+⏳ **Year Progress:** { █████████████████████████▁▁▁▁▁ } 86.62% as on ⏰ 13-Nov-2026
 
 ---
 
@@ -64,7 +65,7 @@
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“In 2031, lawyers will be commonly a part of most development teams.”— Grady Booch   </i>
+<i>❝IMDb is one of the oldest websites on the internet, and began on Usenet in 1990 as a list of “actresses with beautiful eyes.”❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
